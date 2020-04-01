@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio | Nazim</title>
+    <link>/categories/portfolio/</link>
+      <atom:link href="/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portfolio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Sat, 24 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Portfolio</title>
+      <link>/categories/portfolio/</link>
+    </image>
+    
+    <item>
+      <title>Virgin MVR-02</title>
+      <link>/blog/virgin-mvr-02/</link>
+      <pubDate>Sat, 24 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/blog/virgin-mvr-02/</guid>
+      <description>&lt;p&gt;Shot at Singapore Grand Prix in 2011 using a Nikon D60 and Nikon AF-S DX VR Nikkor 55-300mm f/4.5-5.6G ED lens.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;EXIF:
+195mm ƒ/5.3 1/40s ISO 200
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;virgin-mvr-02&#34;&gt;Virgin MVR-02&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Virgin MVR-02 is a Formula One racing car designed by Wirth Research for Marussia Virgin Racing, and used by them during the 2011 Formula One season. Like its predecessor, the Virgin VR-01, the MVR-02 was designed entirely with computational fluid dynamics, with Nick Wirth’s design studio doubling their CFD capacity ahead of the 2011 season. The addition of the “M” in the car’s chassis designation reflected the team’s new owner, Russian sports car manufacturer Marussia Motors. The car was unveiled in London on 7 February 2011, and was driven during the racing season by returning driver Timo Glock and debutant Jérôme d’Ambrosio. - Wiki&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;buy-a-copy-on-getty-images&#34;&gt;Buy a copy on Getty Images:&lt;/h2&gt;
+&lt;div class=&#34;getty embed image &#34; style=&#34;background-color:#fff;display:inline-block;font-family:Roboto,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:554px;&#34;&gt;&lt;div style=&#34;padding:0;margin:0;text-align:left;&#34;&gt;&lt;a href=&#34;http://www.gettyimages.com.au/detail/979176224&#34; target=&#34;_blank&#34; style=&#34;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&#34;&gt;Embed from Getty Images&lt;/a&gt;&lt;/div&gt;&lt;div style=&#34;overflow:hidden;position:relative;height:0;padding:56.137188% 0 0 0;width:100%;&#34;&gt;&lt;iframe src=&#34;//embed.gettyimages.com/embed/979176224?et=tQyoFJiTSJZDKqNsT8PnDA&amp;tld=com.au&amp;sig=cvh3le2Wo2GlnAg3XVoXDDUKEsihbBY6UoAE2cAFUoY=&amp;caption=false&amp;ver=1&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; width=&#34;554&#34; height=&#34;311&#34; style=&#34;display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
