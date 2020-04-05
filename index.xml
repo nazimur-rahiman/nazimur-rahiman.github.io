@@ -1136,6 +1136,24 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
     </item>
     
     <item>
+      <title>Thailand: Kanchanaburi, Khao Sok &amp; Phuket - A Road Trip!</title>
+      <link>/travelogues/thailand-kanchanaburi-khao-sok-phuket-road-trip/part1/</link>
+      <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/travelogues/thailand-kanchanaburi-khao-sok-phuket-road-trip/part1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;All Photographs are copyrighted.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Malaysia - Truly Asia, By Rail &amp; Road! - Part 1</title>
+      <link>/travelogues/malaysia-truly-asia-rail-road/part1/</link>
+      <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/travelogues/malaysia-truly-asia-rail-road/part1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;All Photographs are copyrighted.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hiking Mount Rinjani in Indonesia - Part 2</title>
       <link>/travelogues/hiking-mount-rinjani-in-indonesia/part2/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
@@ -3595,7 +3613,8 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;the-end&#34;&gt;The End&lt;/h3&gt;
-&lt;h2 id=&#34;all-photographs-are-copyrighted&#34;&gt;&lt;strong&gt;All Photographs are copyrighted.&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;All Photographs are copyrighted.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -5428,6 +5447,47 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;the-end&#34;&gt;The End!&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;All Photographs are copyrighted.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thailand: Kanchanaburi, Khao Sok &amp; Phuket - A Road Trip! - Part 2</title>
+      <link>/travelogues/thailand-kanchanaburi-khao-sok-phuket-road-trip/part2/</link>
+      <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/travelogues/thailand-kanchanaburi-khao-sok-phuket-road-trip/part2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;All Photographs are copyrighted.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thailand: Kanchanaburi, Khao Sok &amp; Phuket - A Road Trip! - Part 3</title>
+      <link>/travelogues/thailand-kanchanaburi-khao-sok-phuket-road-trip/part3/</link>
+      <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/travelogues/thailand-kanchanaburi-khao-sok-phuket-road-trip/part3/</guid>
+      <description>&lt;h3 id=&#34;the-end&#34;&gt;The End&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;All Photographs are copyrighted.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Malaysia - Truly Asia, By Rail &amp; Road! - Part 2</title>
+      <link>/travelogues/malaysia-truly-asia-rail-road/part2/</link>
+      <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/travelogues/malaysia-truly-asia-rail-road/part2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;All Photographs are copyrighted.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Malaysia - Truly Asia, By Rail &amp; Road! - Part 3</title>
+      <link>/travelogues/malaysia-truly-asia-rail-road/part3/</link>
+      <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/travelogues/malaysia-truly-asia-rail-road/part3/</guid>
+      <description>&lt;h3 id=&#34;the-end&#34;&gt;The End&lt;/h3&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;All Photographs are copyrighted.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
@@ -7963,9 +8023,17 @@ docker run --name ghost \
     
     <item>
       <title></title>
-      <link>/about_me/</link>
+      <link>/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about_me/</guid>
+      <guid>/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/</guid>
       <description></description>
     </item>
     
