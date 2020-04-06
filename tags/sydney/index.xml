@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sydney | Nazim</title>
-    <link>/tags/sydney/</link>
-      <atom:link href="/tags/sydney/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.nazim.dev/tags/sydney/</link>
+      <atom:link href="https://www.nazim.dev/tags/sydney/index.xml" rel="self" type="application/rss+xml" />
     <description>Sydney</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Sydney</title>
-      <link>/tags/sydney/</link>
+      <link>https://www.nazim.dev/tags/sydney/</link>
     </image>
     
     <item>
       <title>North Head, Sydney</title>
-      <link>/blog/north-head/</link>
+      <link>https://www.nazim.dev/blog/north-head/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/north-head/</guid>
+      <guid>https://www.nazim.dev/blog/north-head/</guid>
       <description>&lt;p&gt;Walking from the Botanic gardens, I took a shortcut path to reach Circular Quay wharf across the &amp;ldquo;Memory is Creation Without End&amp;rdquo; relics.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Start Point:&lt;/strong&gt; Circular Quay Wharf.&lt;/p&gt;
 &lt;p&gt;One can also take a train to the Circular Quay station to reach the Circular Quay wharfs.&lt;/p&gt;
@@ -46,10 +46,10 @@
 &lt;figure id=&#34;figure-customs-house-at-circular-quay&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_154118-3-XL.jpg&#34; data-caption=&#34;Customs House at Circular Quay&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_154118-3-XL.jpg&#34; data-caption=&#34;Customs House at Circular Quay&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_154118-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_154118-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -83,10 +83,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_160225-3-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160225-3-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_160225-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160225-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -114,10 +114,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_160253-3-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160253-3-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_160253-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160253-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -149,10 +149,10 @@
 &lt;figure id=&#34;figure-sydney-harbour-bridge&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_160303-2-XL.jpg&#34; data-caption=&#34;Sydney Harbour Bridge&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160303-2-XL.jpg&#34; data-caption=&#34;Sydney Harbour Bridge&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_160303-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160303-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -185,10 +185,10 @@
 &lt;figure id=&#34;figure-manly-fast-ferry-departing-from-manly-wharf&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_163046-2-XL.jpg&#34; data-caption=&#34;Manly Fast Ferry departing from Manly Wharf&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_163046-2-XL.jpg&#34; data-caption=&#34;Manly Fast Ferry departing from Manly Wharf&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_163046-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_163046-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -229,10 +229,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/Snip20190920_1-XL.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/Snip20190920_1-XL.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/Snip20190920_1-XL.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/Snip20190920_1-XL.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -261,10 +261,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_170700-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170700-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_170700-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170700-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -292,10 +292,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_170725-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170725-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_170725-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170725-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -322,10 +322,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_170733-2-XL&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170733-2-XL&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_170733-2-XL&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170733-2-XL&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -352,10 +352,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_174327-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174327-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_174327-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174327-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -382,10 +382,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_174531-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174531-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_174531-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174531-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -413,10 +413,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_174414-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174414-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_174414-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174414-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -444,10 +444,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_174647-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174647-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_174647-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174647-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -474,10 +474,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_174810-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174810-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_174810-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174810-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -512,10 +512,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_170908-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170908-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_170908-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170908-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -542,10 +542,10 @@
 &lt;figure id=&#34;figure-wildlife&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_170951-2-XL.jpg&#34; data-caption=&#34;Wildlife!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170951-2-XL.jpg&#34; data-caption=&#34;Wildlife!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_170951-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170951-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -579,10 +579,10 @@
 &lt;figure id=&#34;figure-no-footpath-be-careful-of-cars-while-walking&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171355-2-XL.jpg&#34; data-caption=&#34;No footpath! Be careful of cars while walking!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171355-2-XL.jpg&#34; data-caption=&#34;No footpath! Be careful of cars while walking!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171355-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171355-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -615,10 +615,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171604-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171604-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171604-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171604-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -645,10 +645,10 @@
 &lt;figure id=&#34;figure-the-fairfax-lookout-trail&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171741-2-XL.jpg&#34; data-caption=&#34;The Fairfax lookout trail&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171741-2-XL.jpg&#34; data-caption=&#34;The Fairfax lookout trail&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171741-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171741-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -681,10 +681,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171825-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171825-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171825-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171825-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -711,10 +711,10 @@
 &lt;figure id=&#34;figure-view-of-sydney-cbd-skyline-from-fairfax-lookout&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171920-2-XL.jpg&#34; data-caption=&#34;View of Sydney CBD Skyline from Fairfax lookout!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171920-2-XL.jpg&#34; data-caption=&#34;View of Sydney CBD Skyline from Fairfax lookout!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171920-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171920-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -748,10 +748,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171939-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171939-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171939-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171939-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -778,10 +778,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172155-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172155-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172155-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172155-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -808,10 +808,10 @@
 &lt;figure id=&#34;figure-beautiful-sunset&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172233-XL.jpg&#34; data-caption=&#34;Beautiful sunset!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172233-XL.jpg&#34; data-caption=&#34;Beautiful sunset!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172233-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172233-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -844,10 +844,10 @@
 &lt;figure id=&#34;figure-the-manly-public-ferries-can-be-seen-in-the-picture&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172328-2-XL.jpg&#34; data-caption=&#34;The Manly public ferries can be seen in the picture!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172328-2-XL.jpg&#34; data-caption=&#34;The Manly public ferries can be seen in the picture!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172328-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172328-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -880,10 +880,10 @@
 &lt;figure id=&#34;figure-amazing-view-of-the-north-head-cliffs&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172342-2-XL.jpg&#34; data-caption=&#34;Amazing view of the North Head cliffs!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172342-2-XL.jpg&#34; data-caption=&#34;Amazing view of the North Head cliffs!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172342-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172342-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -916,10 +916,10 @@
 &lt;figure id=&#34;figure-fairfax-walking-track&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_173316-2-XL.jpg&#34; data-caption=&#34;Fairfax Walking Track&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173316-2-XL.jpg&#34; data-caption=&#34;Fairfax Walking Track&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_173316-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173316-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -952,10 +952,10 @@
 &lt;figure id=&#34;figure-fairfax-walk&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172623-2-XL.jpg&#34; data-caption=&#34;Fairfax Walk&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172623-2-XL.jpg&#34; data-caption=&#34;Fairfax Walk&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172623-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172623-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -988,10 +988,10 @@
 &lt;figure id=&#34;figure-north-head-artillery-lookout&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172757-2-XL.jpg&#34; data-caption=&#34;North Head Artillery Lookout&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172757-2-XL.jpg&#34; data-caption=&#34;North Head Artillery Lookout&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172757-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172757-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1024,10 +1024,10 @@
 &lt;figure id=&#34;figure-view-from-inside&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172812-2-XL.jpg&#34; data-caption=&#34;View from inside!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172812-2-XL.jpg&#34; data-caption=&#34;View from inside!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172812-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172812-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1060,10 +1060,10 @@
 &lt;figure id=&#34;figure-the-beautiful-path-overlooking-the-sea&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172837-2-XL.jpg&#34; data-caption=&#34;The beautiful path overlooking the sea!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172837-2-XL.jpg&#34; data-caption=&#34;The beautiful path overlooking the sea!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172837-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172837-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1096,10 +1096,10 @@
 &lt;figure id=&#34;figure-north-head-artillery-lookout&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172901-2-XL.jpg&#34; data-caption=&#34;North Head Artillery Lookout&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172901-2-XL.jpg&#34; data-caption=&#34;North Head Artillery Lookout&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172901-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172901-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1132,10 +1132,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_173054-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173054-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_173054-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173054-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1162,10 +1162,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_173211-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173211-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_173211-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173211-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1195,10 +1195,10 @@
 &lt;figure id=&#34;figure-third-quarantine-cemetery&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_175920-2-XL.jpg&#34; data-caption=&#34;Third Quarantine Cemetery&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_175920-2-XL.jpg&#34; data-caption=&#34;Third Quarantine Cemetery&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_175920-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_175920-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1231,10 +1231,10 @@
 &lt;figure id=&#34;figure-third-quarantine-cemetery&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_175926-2-XL.jpg&#34; data-caption=&#34;Third Quarantine Cemetery&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_175926-2-XL.jpg&#34; data-caption=&#34;Third Quarantine Cemetery&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_175926-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_175926-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1269,10 +1269,10 @@
 &lt;figure id=&#34;figure-q-station&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_181357-2-XL.jpg&#34; data-caption=&#34;Q Station&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_181357-2-XL.jpg&#34; data-caption=&#34;Q Station&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_181357-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_181357-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1311,10 +1311,10 @@
 &lt;figure id=&#34;figure-view-of-the-sydney-opera-house-and-cbd-from-the-ferry&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_193815-2-XL.jpg&#34; data-caption=&#34;View of the Sydney Opera house and CBD from the ferry&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193815-2-XL.jpg&#34; data-caption=&#34;View of the Sydney Opera house and CBD from the ferry&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_193815-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193815-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1347,10 +1347,10 @@
 &lt;figure id=&#34;figure-sydney-opera-house&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_193927-2-XL.jpg&#34; data-caption=&#34;Sydney Opera House&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193927-2-XL.jpg&#34; data-caption=&#34;Sydney Opera House&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_193927-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193927-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1383,10 +1383,10 @@
 &lt;figure id=&#34;figure-sydney-harbour-bridge&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_193954-2-XL.jpg&#34; data-caption=&#34;Sydney Harbour Bridge&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193954-2-XL.jpg&#34; data-caption=&#34;Sydney Harbour Bridge&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_193954-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193954-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1419,10 +1419,10 @@
 &lt;figure id=&#34;figure-view-of-the-harbour-bridge-from-the-circular-quay-wharf&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_195145-2-XL.jpg&#34; data-caption=&#34;View of the harbour bridge from the Circular Quay wharf.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_195145-2-XL.jpg&#34; data-caption=&#34;View of the harbour bridge from the Circular Quay wharf.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_195145-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_195145-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1455,10 +1455,10 @@
 &lt;figure id=&#34;figure-pitt-street-mall&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_202257-2-XL.jpg&#34; data-caption=&#34;Pitt Street Mall&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_202257-2-XL.jpg&#34; data-caption=&#34;Pitt Street Mall&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_202257-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_202257-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1491,10 +1491,10 @@
 &lt;figure id=&#34;figure-sydney-town-hall&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_202921-2-XL.jpg&#34; data-caption=&#34;Sydney Town Hall&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_202921-2-XL.jpg&#34; data-caption=&#34;Sydney Town Hall&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_202921-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_202921-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1513,9 +1513,9 @@
     
     <item>
       <title>Royal Botanic Garden, Sydney</title>
-      <link>/blog/royal-botanic-garden-sydney/</link>
+      <link>https://www.nazim.dev/blog/royal-botanic-garden-sydney/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/royal-botanic-garden-sydney/</guid>
+      <guid>https://www.nazim.dev/blog/royal-botanic-garden-sydney/</guid>
       <description>&lt;p&gt;Explored the Royal Botanic Garden at Sydney on 19th September 2019.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The Royal Botanic Garden, Sydney is a heritage-listed major 30-hectare (74-acre) botanical garden, event venue and public recreation area located at Farm Cove on the eastern fringe of the Sydney central business district, in the City of Sydney local government area of New South Wales, Australia.&lt;/p&gt;
@@ -1543,10 +1543,10 @@
 &lt;figure id=&#34;figure-walking-to-the-gardens-from-martin-place-station&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_141747-XL.jpg&#34; data-caption=&#34;Walking to the gardens from Martin Place station&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_141747-XL.jpg&#34; data-caption=&#34;Walking to the gardens from Martin Place station&#34;&gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_141747-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_141747-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1579,10 +1579,10 @@
 &lt;figure id=&#34;figure-entrance-to-the-garden&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_142328-2-XL.jpg&#34; data-caption=&#34;Entrance to the garden&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_142328-2-XL.jpg&#34; data-caption=&#34;Entrance to the garden&#34;&gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_142328-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_142328-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1615,10 +1615,10 @@
 &lt;figure id=&#34;figure-the-calyx&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_143125-2-XL.jpg&#34; data-caption=&#34;The Calyx&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_143125-2-XL.jpg&#34; data-caption=&#34;The Calyx&#34;&gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_143125-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_143125-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1651,10 +1651,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_143408-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_143408-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_143408-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_143408-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1681,10 +1681,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144218-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144218-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144218-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144218-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1711,10 +1711,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144235-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144235-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144235-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144235-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1741,10 +1741,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144617-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144617-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144617-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144617-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1771,10 +1771,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144700-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144700-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144700-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144700-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1801,10 +1801,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144727-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144727-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144727-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144727-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1831,10 +1831,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_145019-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_145019-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_145019-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_145019-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1861,10 +1861,10 @@
 &lt;figure id=&#34;figure-maiden-pavilion&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_145219-2-XL.jpg&#34; data-caption=&#34;Maiden Pavilion&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_145219-2-XL.jpg&#34; data-caption=&#34;Maiden Pavilion&#34;&gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_145219-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_145219-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1900,10 +1900,10 @@
 &lt;figure id=&#34;figure-sydney-harbor-bridge-and-opera-house-as-seen-from-mrs-macquaries-chair&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150412-2-XL.jpg&#34; data-caption=&#34;Sydney Harbor bridge and Opera house as seen from Mrs. Macquarie&amp;rsquo;s chair&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150412-2-XL.jpg&#34; data-caption=&#34;Sydney Harbor bridge and Opera house as seen from Mrs. Macquarie&amp;rsquo;s chair&#34;&gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150412-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150412-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1937,10 +1937,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150627-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150627-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150627-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150627-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1967,10 +1967,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150757-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150757-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150757-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150757-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1997,10 +1997,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152217-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152217-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152217-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152217-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2027,10 +2027,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152327-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152327-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152327-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152327-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2057,10 +2057,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152338-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152338-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152338-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152338-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2087,10 +2087,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152501-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152501-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152501-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152501-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2117,10 +2117,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_153239-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_153239-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_153239-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_153239-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2147,10 +2147,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_153317-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_153317-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_153317-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_153317-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

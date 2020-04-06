@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nazim</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.nazim.dev/</link>
+      <atom:link href="https://www.nazim.dev/index.xml" rel="self" type="application/rss+xml" />
     <description>Nazim</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Nazim</title>
-      <link>/</link>
+      <link>https://www.nazim.dev/</link>
     </image>
     
     <item>
       <title>Hiking Mount Rinjani in Indonesia - Part 1</title>
-      <link>/travelogues/hiking-mount-rinjani-in-indonesia/part1/</link>
+      <link>https://www.nazim.dev/travelogues/hiking-mount-rinjani-in-indonesia/part1/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/travelogues/hiking-mount-rinjani-in-indonesia/part1/</guid>
+      <guid>https://www.nazim.dev/travelogues/hiking-mount-rinjani-in-indonesia/part1/</guid>
       <description>&lt;h3 id=&#34;ramblings&#34;&gt;Ramblings&lt;/h3&gt;
 &lt;p&gt;Sometimes, when age is fast catching up, one tends to start focusing on being able to achieve few difficult tasks and plan to be more fit for the days to come&amp;hellip; and this is what exactly lead us to plan for a hiking trip from Singapore.&lt;/p&gt;
 &lt;p&gt;Based in Singapore, there are a lot of good hiking destinations in South East Asia which are easily accessible thanks to the local low cost airlines.&lt;/p&gt;
@@ -74,10 +74,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-lion-air-flight-singapore-jakarta-lombok&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161206_163106-L.jpg&#34; data-caption=&#34;Lion Air flight. Singapore-&amp;gt;Jakarta-&amp;gt;Lombok.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161206_163106-L.jpg&#34; data-caption=&#34;Lion Air flight. Singapore-&amp;gt;Jakarta-&amp;gt;Lombok.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161206_163106-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161206_163106-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -110,10 +110,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-jakarta-domestic-terminal&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161206_173554-L.jpg&#34; data-caption=&#34;Jakarta domestic terminal&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161206_173554-L.jpg&#34; data-caption=&#34;Jakarta domestic terminal&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161206_173554-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161206_173554-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -146,10 +146,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-loading-up-on-some-sugar&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161206_190208-L.jpg&#34; data-caption=&#34;Loading up on some sugar&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161206_190208-L.jpg&#34; data-caption=&#34;Loading up on some sugar&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161206_190208-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161206_190208-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -182,10 +182,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-domestic-airport-departure-gate-ceiling&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161206_191556-L.jpg&#34; data-caption=&#34;Domestic airport departure gate ceiling&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161206_191556-L.jpg&#34; data-caption=&#34;Domestic airport departure gate ceiling&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161206_191556-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161206_191556-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -218,10 +218,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-jakarta-city-in-the-night&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161206_201948-L.jpg&#34; data-caption=&#34;Jakarta city in the night&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161206_201948-L.jpg&#34; data-caption=&#34;Jakarta city in the night&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161206_201948-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161206_201948-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -240,9 +240,9 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
     
     <item>
       <title>Thailand: Krabi &amp; Koh Lanta - Part 1</title>
-      <link>/travelogues/thailand-krabi-koh-lanta/part1/</link>
+      <link>https://www.nazim.dev/travelogues/thailand-krabi-koh-lanta/part1/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/travelogues/thailand-krabi-koh-lanta/part1/</guid>
+      <guid>https://www.nazim.dev/travelogues/thailand-krabi-koh-lanta/part1/</guid>
       <description>&lt;h2 id=&#34;airport&#34;&gt;Airport&lt;/h2&gt;
 &lt;p&gt;Since our flight was landing in Krabi around 3:00 PM local time and we would require another one hour to get Visa on Arrival, immigration, car collection, etc, we decided to stay in Krabi on the first day and then travel to Koh Lanta on the next day.&lt;/p&gt;
 
@@ -265,10 +265,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-our-companion-for-the-trip-toyota-corolla-altis-18-at-i-had-booked-a-toyota-yaris-and-got-upgraded-to-the-altis-sweet&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140305_160453-L.jpg&#34; data-caption=&#34;Our companion for the trip: Toyota Corolla Altis 1.8 AT. I had booked a Toyota Yaris and got upgraded to the Altis! Sweet!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140305_160453-L.jpg&#34; data-caption=&#34;Our companion for the trip: Toyota Corolla Altis 1.8 AT. I had booked a Toyota Yaris and got upgraded to the Altis! Sweet!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140305_160453-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140305_160453-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -303,10 +303,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-food-court&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140305_165956-L.jpg&#34; data-caption=&#34;The food court&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140305_165956-L.jpg&#34; data-caption=&#34;The food court&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140305_165956-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140305_165956-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -339,10 +339,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-random-selection-from-the-menu-and-the-outcome&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140305_170107-L.jpg&#34; data-caption=&#34;Random selection from the menu and the outcome!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140305_170107-L.jpg&#34; data-caption=&#34;Random selection from the menu and the outcome!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140305_170107-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140305_170107-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -375,10 +375,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-best-thai-iced-tea-ever&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140305_213726-L.jpg&#34; data-caption=&#34;The best Thai Iced Tea ever!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140305_213726-L.jpg&#34; data-caption=&#34;The best Thai Iced Tea ever!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140305_213726-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140305_213726-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -411,10 +411,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-a-glimpse-of-the-roads-you-get-to-drive-on-in-krabi&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0185-L.jpg&#34; data-caption=&#34;A glimpse of the roads you get to drive-on in Krabi&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0185-L.jpg&#34; data-caption=&#34;A glimpse of the roads you get to drive-on in Krabi&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0185-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0185-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -449,10 +449,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-spacious-and-clean-room&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0230-L.jpg&#34; data-caption=&#34;The spacious and clean room&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0230-L.jpg&#34; data-caption=&#34;The spacious and clean room&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0230-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0230-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -485,10 +485,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-pool&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0243-L.jpg&#34; data-caption=&#34;The pool&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0243-L.jpg&#34; data-caption=&#34;The pool&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0243-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0243-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -521,10 +521,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-unique-traffic-signal---cavemen&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0238-L.jpg&#34; data-caption=&#34;Unique traffic signal - Cavemen&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0238-L.jpg&#34; data-caption=&#34;Unique traffic signal - Cavemen&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0238-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0238-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -566,10 +566,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-fossil-beach&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0265-L.jpg&#34; data-caption=&#34;Fossil Beach&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0265-L.jpg&#34; data-caption=&#34;Fossil Beach&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0265-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0265-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -602,10 +602,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-long-exposure-with-a-10-stop-nd-filter&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0272-L.jpg&#34; data-caption=&#34;Long exposure with a 10 Stop ND Filter&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0272-L.jpg&#34; data-caption=&#34;Long exposure with a 10 Stop ND Filter&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0272-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0272-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -639,10 +639,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-most-popular-mode-of-local-transport-in-thailand&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0289-L.jpg&#34; data-caption=&#34;The most popular mode of local transport in Thailand&amp;hellip;&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0289-L.jpg&#34; data-caption=&#34;The most popular mode of local transport in Thailand&amp;hellip;&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0289-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0289-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -675,10 +675,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0290-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0290-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0290-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0290-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -705,10 +705,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-it-was-low-tide-and-we-were-not-at-all-impressed&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0294-L.jpg&#34; data-caption=&#34;It was low tide and we were not at all impressed!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0294-L.jpg&#34; data-caption=&#34;It was low tide and we were not at all impressed!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0294-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0294-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -741,10 +741,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-two-wheeler-taxis&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0322-L.jpg&#34; data-caption=&#34;Two Wheeler Taxis&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0322-L.jpg&#34; data-caption=&#34;Two Wheeler Taxis&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0322-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0322-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -792,10 +792,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-road-ends-here&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0356-L.jpg&#34; data-caption=&#34;The road ends here&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0356-L.jpg&#34; data-caption=&#34;The road ends here&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0356-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0356-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -831,10 +831,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0370-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0370-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0370-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0370-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -861,10 +861,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0378-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0378-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0378-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0378-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -891,10 +891,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0379-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0379-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0379-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0379-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -921,10 +921,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0380-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0380-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0380-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0380-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -951,10 +951,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0382-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0382-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0382-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0382-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -981,10 +981,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0385-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0385-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0385-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0385-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1011,10 +1011,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-ramps-are-of-different-heights-to-operate-in-both-high-and-low-tide-levels&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0391-L.jpg&#34; data-caption=&#34;The ramps are of different heights to operate in both high and low tide levels&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0391-L.jpg&#34; data-caption=&#34;The ramps are of different heights to operate in both high and low tide levels&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0391-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0391-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1048,10 +1048,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/Snip20140418_1-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/Snip20140418_1-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/Snip20140418_1-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/Snip20140418_1-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1078,10 +1078,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-queue-to-board-the-second-ferry&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0410-L.jpg&#34; data-caption=&#34;The queue to board the second ferry!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0410-L.jpg&#34; data-caption=&#34;The queue to board the second ferry!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0410-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0410-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1115,10 +1115,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-this-is-how-close-you-park-on-the-ferry-no-space-to-even-open-the-door&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/SC_0419-L.jpg&#34; data-caption=&#34;This is how close you park on the ferry. No space to even open the door&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/SC_0419-L.jpg&#34; data-caption=&#34;This is how close you park on the ferry. No space to even open the door&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/SC_0419-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/SC_0419-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1137,9 +1137,9 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
     
     <item>
       <title>Hiking Mount Rinjani in Indonesia - Part 2</title>
-      <link>/travelogues/hiking-mount-rinjani-in-indonesia/part2/</link>
+      <link>https://www.nazim.dev/travelogues/hiking-mount-rinjani-in-indonesia/part2/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/travelogues/hiking-mount-rinjani-in-indonesia/part2/</guid>
+      <guid>https://www.nazim.dev/travelogues/hiking-mount-rinjani-in-indonesia/part2/</guid>
       <description>&lt;h3 id=&#34;day-2---first-day-of-the-hike&#34;&gt;Day 2 - First Day of the hike&lt;/h3&gt;
 &lt;p&gt;We met with our 3 porters and 1 guide (Ipin) after completing the registration at the Rinjani Information Center. Day 1 trek was for 7 Hours (moving time 3 hrs 40 mins) with an altitude gain of 1,541 meters and covering a distance of 10.31 KMs from the start point. The last stage after POS 3 was a steep climb and very exhausting.&lt;/p&gt;
 
@@ -1162,10 +1162,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-view-of-the-mountain-from-sembalun&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6099-Edit-L.jpg&#34; data-caption=&#34;View of the mountain from Sembalun&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6099-Edit-L.jpg&#34; data-caption=&#34;View of the mountain from Sembalun&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6099-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6099-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1198,10 +1198,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-our-hut-at-pesona-rinjani-sembalun&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161207_070002-L.jpg&#34; data-caption=&#34;Our hut at Pesona Rinjani, Sembalun&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161207_070002-L.jpg&#34; data-caption=&#34;Our hut at Pesona Rinjani, Sembalun&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161207_070002-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161207_070002-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1234,10 +1234,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-pesona-rinjani-sembalun&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161207_075233-L.jpg&#34; data-caption=&#34;Pesona Rinjani, Sembalun&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161207_075233-L.jpg&#34; data-caption=&#34;Pesona Rinjani, Sembalun&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161207_075233-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161207_075233-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1270,10 +1270,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-lun-the-owner-of-lhuna-adventures-and-his-driver---olo&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6106-L.jpg&#34; data-caption=&#34;Lun, the owner of Lhuna Adventures and his driver - Olo&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6106-L.jpg&#34; data-caption=&#34;Lun, the owner of Lhuna Adventures and his driver - Olo&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6106-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6106-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1306,10 +1306,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-government-office-where-one-has-to-register-and-buy-tickets-before-starting-the-hike&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6111-L.jpg&#34; data-caption=&#34;The government office where one has to register and buy tickets before starting the hike&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6111-L.jpg&#34; data-caption=&#34;The government office where one has to register and buy tickets before starting the hike&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6111-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6111-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1342,10 +1342,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-ticket&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161211_083645-L.jpg&#34; data-caption=&#34;The ticket&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161211_083645-L.jpg&#34; data-caption=&#34;The ticket&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161211_083645-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161211_083645-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1378,10 +1378,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-standard-low-cost-accommodation---stay-in-resort-grounds-in-tents&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161207_084601-L.jpg&#34; data-caption=&#34;Standard low cost accommodation - Stay in resort grounds in tents&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161207_084601-L.jpg&#34; data-caption=&#34;Standard low cost accommodation - Stay in resort grounds in tents&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161207_084601-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161207_084601-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1415,10 +1415,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-grasslands-at-the-base-of-the-mountain-this-whole-area-is-parched-during-summer-due-to-bush-fires&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161207_105728-L.jpg&#34; data-caption=&#34;The grasslands at the base of the mountain. This whole area is parched during summer due to bush fires.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161207_105728-L.jpg&#34; data-caption=&#34;The grasslands at the base of the mountain. This whole area is parched during summer due to bush fires.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161207_105728-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161207_105728-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1451,10 +1451,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-pos-1-first-stop-for-rest&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161207_110454-L.jpg&#34; data-caption=&#34;POS 1. First stop for rest.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161207_110454-L.jpg&#34; data-caption=&#34;POS 1. First stop for rest.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161207_110454-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161207_110454-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1490,10 +1490,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6115-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6115-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6115-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6115-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1520,10 +1520,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6117-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6117-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6117-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6117-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1550,10 +1550,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6120-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6120-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6120-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6120-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1581,10 +1581,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6129-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6129-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6129-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6129-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1611,10 +1611,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6135-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6135-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6135-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6135-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1641,10 +1641,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6138-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6138-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6138-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6138-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1671,10 +1671,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6139-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6139-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6139-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6139-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1701,10 +1701,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-hikers&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6141-L.jpg&#34; data-caption=&#34;The hikers&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6141-L.jpg&#34; data-caption=&#34;The hikers&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6141-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6141-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1737,10 +1737,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-beautiful-grasslands-at-the-base-of-the-mountain&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6151-L.jpg&#34; data-caption=&#34;The beautiful grasslands at the base of the mountain&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6151-L.jpg&#34; data-caption=&#34;The beautiful grasslands at the base of the mountain&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6151-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6151-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1773,10 +1773,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-fire-alert-area&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6153-L.jpg&#34; data-caption=&#34;Fire alert area&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6153-L.jpg&#34; data-caption=&#34;Fire alert area&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6153-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6153-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1811,10 +1811,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6170-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6170-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6170-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6170-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1841,10 +1841,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6187-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6187-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6187-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6187-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1871,10 +1871,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-at-pos2&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6195-L.jpg&#34; data-caption=&#34;AT POS2&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6195-L.jpg&#34; data-caption=&#34;AT POS2&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6195-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6195-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1907,10 +1907,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-lunch-freshly-prepared-by-the-porters&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6202-L.jpg&#34; data-caption=&#34;Lunch freshly prepared by the porters&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6202-L.jpg&#34; data-caption=&#34;Lunch freshly prepared by the porters&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6202-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6202-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1943,10 +1943,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-you-get-pampered-when-you-book-for-a-deluxe-package&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6203-L.jpg&#34; data-caption=&#34;You get pampered when you book for a deluxe package&amp;hellip;&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6203-L.jpg&#34; data-caption=&#34;You get pampered when you book for a deluxe package&amp;hellip;&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6203-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6203-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1979,10 +1979,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-still-a-long-way-to-go-to-finish-the-days-hike&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6206-Edit-L.jpg&#34; data-caption=&#34;Still a long way to go to finish the day&amp;rsquo;s hike&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6206-Edit-L.jpg&#34; data-caption=&#34;Still a long way to go to finish the day&amp;rsquo;s hike&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6206-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6206-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2015,10 +2015,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6217-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6217-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6217-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6217-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2045,10 +2045,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6246-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6246-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6246-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6246-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2075,10 +2075,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6258-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6258-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6258-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6258-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2107,10 +2107,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6267-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6267-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6267-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6267-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2139,10 +2139,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/Snip20170501_2-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/Snip20170501_2-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/Snip20170501_2-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/Snip20170501_2-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2155,9 +2155,9 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
     
     <item>
       <title>Hiking Mount Rinjani in Indonesia - Part 3</title>
-      <link>/travelogues/hiking-mount-rinjani-in-indonesia/part3/</link>
+      <link>https://www.nazim.dev/travelogues/hiking-mount-rinjani-in-indonesia/part3/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/travelogues/hiking-mount-rinjani-in-indonesia/part3/</guid>
+      <guid>https://www.nazim.dev/travelogues/hiking-mount-rinjani-in-indonesia/part3/</guid>
       <description>&lt;h3 id=&#34;day-2-on-the-mountain-8th-december-2016&#34;&gt;Day 2 on the mountain. (8th December 2016)&lt;/h3&gt;
 &lt;p&gt;The night on the crater rim was very windy and cold. We opted to sleep through the night instead of waking up at 2 AM for the summit climb. We could hardly sleep due to the noise of the wind and it was pushing the tent on us.&lt;/p&gt;
 &lt;p&gt;We started our summit climb around 8 AM in the morning and took 7 Hours to get to the summit and back to the crater. As per the initial itinerary, we had to descend to the lake after the summit but we decided to stay back on the crater rim as it was quite late by the time we came back to the camp after the summit. Our guide and porters were very accommodating as this was a change from the planned itinerary.&lt;/p&gt;
@@ -2181,10 +2181,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-crater-rim-of-mt-rinjani&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6283-L.jpg&#34; data-caption=&#34;The crater rim of Mt. Rinjani.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6283-L.jpg&#34; data-caption=&#34;The crater rim of Mt. Rinjani.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6283-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6283-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2217,10 +2217,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-camping-above-the-clouds&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6330-Edit-L.jpg&#34; data-caption=&#34;Camping above the clouds.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6330-Edit-L.jpg&#34; data-caption=&#34;Camping above the clouds.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6330-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6330-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2253,10 +2253,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-camping-above-the-clouds&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161208_061720-L.jpg&#34; data-caption=&#34;Camping above the clouds.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161208_061720-L.jpg&#34; data-caption=&#34;Camping above the clouds.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161208_061720-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161208_061720-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2291,10 +2291,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161208_062404-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161208_062404-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161208_062404-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161208_062404-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2324,10 +2324,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161208_182149-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161208_182149-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161208_182149-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161208_182149-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2354,10 +2354,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/20161208_184205-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/20161208_184205-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/20161208_184205-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/20161208_184205-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2384,10 +2384,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-natures-art&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6337-L.jpg&#34; data-caption=&#34;Nature&amp;rsquo;s art&amp;hellip;&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6337-L.jpg&#34; data-caption=&#34;Nature&amp;rsquo;s art&amp;hellip;&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6337-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6337-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2420,10 +2420,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6346-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6346-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6346-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6346-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2450,10 +2450,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6354-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6354-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6354-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6354-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2487,10 +2487,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6367-X4.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6367-X4.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6367-X4.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6367-X4.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2518,10 +2518,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6387-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6387-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6387-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6387-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2549,10 +2549,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6393-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6393-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6393-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6393-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2581,10 +2581,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6395-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6395-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6395-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6395-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2613,10 +2613,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-this-is-on-the-other-side-of-the-summit-which-does-not-have-a-lake&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6397-Edit-L.jpg&#34; data-caption=&#34;This is on the other side of the summit which does not have a lake.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6397-Edit-L.jpg&#34; data-caption=&#34;This is on the other side of the summit which does not have a lake.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6397-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6397-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2649,10 +2649,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6400-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6400-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6400-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6400-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2679,10 +2679,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-on-the-summit&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6407-L.jpg&#34; data-caption=&#34;On the summit&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6407-L.jpg&#34; data-caption=&#34;On the summit&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6407-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6407-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2715,10 +2715,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-back-to-base-camp-on-the-crater&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6445-L.jpg&#34; data-caption=&#34;Back to base camp on the crater.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6445-L.jpg&#34; data-caption=&#34;Back to base camp on the crater.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6445-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6445-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2752,10 +2752,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-on-the-summit&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/Snip20170501_3-L.jpg&#34; data-caption=&#34;On the summit&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/Snip20170501_3-L.jpg&#34; data-caption=&#34;On the summit&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/Snip20170501_3-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/Snip20170501_3-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2790,10 +2790,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/PANO_20161207_180131-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/PANO_20161207_180131-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/PANO_20161207_180131-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/PANO_20161207_180131-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2821,10 +2821,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/IMG_20161208_082738-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/IMG_20161208_082738-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/IMG_20161208_082738-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/IMG_20161208_082738-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2852,10 +2852,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6434-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6434-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6434-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6434-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2883,10 +2883,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6466-Edit-X4.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6466-Edit-X4.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6466-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6466-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2915,10 +2915,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6471-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6471-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6471-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6471-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2945,10 +2945,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6477-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6477-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6477-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6477-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2975,10 +2975,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-a-relief-for-the-sore-muscles&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6493-L.jpg&#34; data-caption=&#34;A relief for the sore muscles&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6493-L.jpg&#34; data-caption=&#34;A relief for the sore muscles&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6493-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6493-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3013,10 +3013,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6494-Edit-X4.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6494-Edit-X4.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6494-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6494-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3044,10 +3044,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/IMG_20161209_135357-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/IMG_20161209_135357-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/IMG_20161209_135357-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/IMG_20161209_135357-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3074,10 +3074,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-overview-of-the-descent-from-the-base-camp-on-semablun-side-to-the-lake&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/Snip20170501_4-L.jpg&#34; data-caption=&#34;Overview of the descent from the base camp on Semablun side to the lake.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/Snip20170501_4-L.jpg&#34; data-caption=&#34;Overview of the descent from the base camp on Semablun side to the lake.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/Snip20170501_4-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/Snip20170501_4-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3110,10 +3110,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6504-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6504-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6504-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6504-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3141,10 +3141,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6563-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6563-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6563-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6563-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3171,10 +3171,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6565-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6565-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6565-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6565-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3201,10 +3201,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-overview-of-the-climb-to-the-crater-rim-on-the-senaru-village-side-&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/Snip20170501_5-L.jpg&#34; data-caption=&#34;Overview of the climb to the crater rim on the Senaru Village side.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/Snip20170501_5-L.jpg&#34; data-caption=&#34;Overview of the climb to the crater rim on the Senaru Village side.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/Snip20170501_5-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/Snip20170501_5-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3240,10 +3240,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6570-Edit-X4.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6570-Edit-X4.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6570-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6570-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3270,10 +3270,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6571-Edit-X4.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6571-Edit-X4.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6571-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6571-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3300,10 +3300,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6590-Edit-X4.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6590-Edit-X4.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6590-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6590-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3331,10 +3331,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-dawn-of-our-last-day-on-mt-rinjani&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6614-Edit-L.jpg&#34; data-caption=&#34;The dawn of our last day on Mt. Rinjani&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6614-Edit-L.jpg&#34; data-caption=&#34;The dawn of our last day on Mt. Rinjani&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6614-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6614-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3367,10 +3367,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6615-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6615-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6615-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6615-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3398,10 +3398,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6639-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6639-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6639-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6639-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3428,10 +3428,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6658-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6658-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6658-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6658-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3458,10 +3458,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6673-Edit-X4.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6673-Edit-X4.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6673-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6673-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3488,10 +3488,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6674-Edit-X4.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6674-Edit-X4.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6674-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6674-Edit-X4.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3518,10 +3518,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6681-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6681-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6681-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6681-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3548,10 +3548,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-final-picture-with-the-guide-at-the-senaru-start-point&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/DSC_6690-L.jpg&#34; data-caption=&#34;Final picture with the guide at the Senaru start point.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/DSC_6690-L.jpg&#34; data-caption=&#34;Final picture with the guide at the Senaru start point.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/rinjani/DSC_6690-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/DSC_6690-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3584,10 +3584,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rinjani/Snip20170501_6-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/rinjani/Snip20170501_6-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/rinjani/Snip20170501_6-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/rinjani/Snip20170501_6-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3602,9 +3602,9 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
     
     <item>
       <title>Thailand: Krabi &amp; Koh Lanta - Part 2</title>
-      <link>/travelogues/thailand-krabi-koh-lanta/part2/</link>
+      <link>https://www.nazim.dev/travelogues/thailand-krabi-koh-lanta/part2/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/travelogues/thailand-krabi-koh-lanta/part2/</guid>
+      <guid>https://www.nazim.dev/travelogues/thailand-krabi-koh-lanta/part2/</guid>
       <description>&lt;p&gt;We did not have any hotel booking at Koh Lanta and the plan was to explore the island and look for a nice accommodation. We had our lunch and roamed around a bit checking out the resorts.&lt;/p&gt;
 &lt;h3 id=&#34;bamboo-bay-beach&#34;&gt;Bamboo Bay Beach&lt;/h3&gt;
 &lt;p&gt;This is the last beach with accommodation on the island. There are 3 resorts/hotels here and the best one was full. The other two were not impressive though the view and the beach at this part of the island was mind-blowing!&lt;/p&gt;
@@ -3628,10 +3628,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-bamboo-bay-beach&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140306_164639-L.jpg&#34; data-caption=&#34;Bamboo Bay Beach&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140306_164639-L.jpg&#34; data-caption=&#34;Bamboo Bay Beach&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140306_164639-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140306_164639-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3665,10 +3665,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-room&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0431-L.jpg&#34; data-caption=&#34;The room&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0431-L.jpg&#34; data-caption=&#34;The room&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0431-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0431-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3701,10 +3701,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-view-from-inside&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0433-L.jpg&#34; data-caption=&#34;View from inside&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0433-L.jpg&#34; data-caption=&#34;View from inside&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0433-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0433-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3737,10 +3737,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-view-from-inside&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0434-L.jpg&#34; data-caption=&#34;View from inside&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0434-L.jpg&#34; data-caption=&#34;View from inside&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0434-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0434-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3776,10 +3776,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-sunset-with-a-10-stop-nd-filter&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0437-L.jpg&#34; data-caption=&#34;Sunset with a 10 Stop ND Filter&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0437-L.jpg&#34; data-caption=&#34;Sunset with a 10 Stop ND Filter&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0437-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0437-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3812,10 +3812,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-same-sunset-captured-with-the-samsung-galaxy-note-3&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140306_181852-L.jpg&#34; data-caption=&#34;The same sunset captured with the Samsung Galaxy Note 3&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140306_181852-L.jpg&#34; data-caption=&#34;The same sunset captured with the Samsung Galaxy Note 3&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140306_181852-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140306_181852-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3848,10 +3848,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140307_071040-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140307_071040-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140307_071040-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140307_071040-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3878,10 +3878,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-the-room-from-outside&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140306_182436-L.jpg&#34; data-caption=&#34;The room from outside&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140306_182436-L.jpg&#34; data-caption=&#34;The room from outside&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140306_182436-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140306_182436-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3916,10 +3916,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0462-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0462-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0462-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0462-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3946,10 +3946,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0464-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0464-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0464-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0464-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -3976,10 +3976,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0465-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0465-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0465-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0465-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4006,10 +4006,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0468-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0468-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0468-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0468-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4038,10 +4038,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0476-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0476-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0476-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0476-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4068,10 +4068,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure id=&#34;figure-breakfast-table-at-the-resort&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140307_082155-L.jpg&#34; data-caption=&#34;Breakfast table at the resort&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140307_082155-L.jpg&#34; data-caption=&#34;Breakfast table at the resort&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140307_082155-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140307_082155-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4105,10 +4105,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0491-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0491-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0491-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0491-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4121,9 +4121,9 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
     
     <item>
       <title>Thailand: Krabi &amp; Koh Lanta - Part 3</title>
-      <link>/travelogues/thailand-krabi-koh-lanta/part3/</link>
+      <link>https://www.nazim.dev/travelogues/thailand-krabi-koh-lanta/part3/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/travelogues/thailand-krabi-koh-lanta/part3/</guid>
+      <guid>https://www.nazim.dev/travelogues/thailand-krabi-koh-lanta/part3/</guid>
       <description>&lt;h3 id=&#34;tung-yee-peng-mangrove-forests&#34;&gt;Tung Yee Peng Mangrove Forests&lt;/h3&gt;
 &lt;p&gt;Tung Yee Peng is a small fishing village on the east coast of the island and this side of the island is covered with Mangrove forests. Long tail boats and kayaking options are available here for checking out the mangroves.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Some pictures from the long-tail boat trip exploring the Mangrove forests at Tung Yee Peng Village.&lt;/strong&gt;&lt;/p&gt;
@@ -4147,10 +4147,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140307_150619-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140307_150619-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140307_150619-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140307_150619-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4177,10 +4177,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0492-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0492-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0492-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0492-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4207,10 +4207,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0498-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0498-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0498-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0498-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4237,10 +4237,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0512-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0512-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0512-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0512-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4267,10 +4267,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0542-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0542-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0542-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0542-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4297,10 +4297,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0558-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0558-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0558-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0558-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4327,10 +4327,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0611%20copy-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0611%20copy-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0611%20copy-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0611%20copy-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4357,10 +4357,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0693-Edit-Edit-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0693-Edit-Edit-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0693-Edit-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0693-Edit-Edit-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4387,10 +4387,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0634-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0634-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0634-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0634-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4424,10 +4424,10 @@ Ah, what&amp;rsquo;s to see? A woman from Norway, a guy from Kenya and 20,000 lo
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0705-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0705-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0705-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0705-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4477,10 +4477,10 @@ https://www.facebook.com/NoCoalLanta
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0728-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0728-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0728-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0728-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4507,10 +4507,10 @@ https://www.facebook.com/NoCoalLanta
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0729-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0729-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0729-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0729-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4537,10 +4537,10 @@ https://www.facebook.com/NoCoalLanta
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0732-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0732-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0732-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0732-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4567,10 +4567,10 @@ https://www.facebook.com/NoCoalLanta
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0733-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0733-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0733-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0733-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4597,10 +4597,10 @@ https://www.facebook.com/NoCoalLanta
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0737-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0737-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0737-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0737-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4627,10 +4627,10 @@ https://www.facebook.com/NoCoalLanta
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0738-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0738-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0738-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0738-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4657,10 +4657,10 @@ https://www.facebook.com/NoCoalLanta
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0746-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0746-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0746-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0746-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4687,10 +4687,10 @@ https://www.facebook.com/NoCoalLanta
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0747-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0747-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0747-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0747-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4717,10 +4717,10 @@ https://www.facebook.com/NoCoalLanta
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0752-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0752-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0752-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0752-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4747,10 +4747,10 @@ https://www.facebook.com/NoCoalLanta
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0755-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0755-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0755-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0755-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4763,9 +4763,9 @@ https://www.facebook.com/NoCoalLanta
     
     <item>
       <title>Thailand: Krabi &amp; Koh Lanta - Part 4</title>
-      <link>/travelogues/thailand-krabi-koh-lanta/part4/</link>
+      <link>https://www.nazim.dev/travelogues/thailand-krabi-koh-lanta/part4/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/travelogues/thailand-krabi-koh-lanta/part4/</guid>
+      <guid>https://www.nazim.dev/travelogues/thailand-krabi-koh-lanta/part4/</guid>
       <description>&lt;h3 id=&#34;koh-rok&#34;&gt;Koh Rok&lt;/h3&gt;
 &lt;p&gt;The next day, we went on a snorkeling trip to Koh Rok.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -4793,10 +4793,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/Snip20140420_2-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/Snip20140420_2-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/Snip20140420_2-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/Snip20140420_2-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4852,10 +4852,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-can-there-be-a-better-place-for-push-ups&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0775-L.jpg&#34; data-caption=&#34;Can there be a better place for push-ups?&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0775-L.jpg&#34; data-caption=&#34;Can there be a better place for push-ups?&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0775-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0775-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4888,10 +4888,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0782-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0782-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0782-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0782-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4918,10 +4918,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0823-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0823-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0823-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0823-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4948,10 +4948,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0829-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0829-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0829-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0829-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -4978,10 +4978,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0838-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0838-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0838-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0838-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5008,10 +5008,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0841-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0841-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0841-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0841-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5038,10 +5038,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0843-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0843-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0843-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0843-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5068,10 +5068,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0864-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0864-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0864-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0864-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5098,10 +5098,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0866-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0866-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0866-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0866-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5128,10 +5128,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/DSC_0876-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0876-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/DSC_0876-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/DSC_0876-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5158,10 +5158,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140308_1137542-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140308_1137542-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140308_1137542-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140308_1137542-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5195,10 +5195,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-few-more-food-pics&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140310%2011.26.07%201-L.jpg&#34; data-caption=&#34;Few more food pics!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140310%2011.26.07%201-L.jpg&#34; data-caption=&#34;Few more food pics!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140310%2011.26.07%201-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140310%2011.26.07%201-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5231,10 +5231,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-finally-found-a-cafe-serving-good-latte&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140308_170546-L.jpg&#34; data-caption=&#34;Finally found a cafe serving good Latte!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140308_170546-L.jpg&#34; data-caption=&#34;Finally found a cafe serving good Latte!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140308_170546-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140308_170546-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5267,10 +5267,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-another-day-another-place-another-breakfast-table&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140309_085744-L.jpg&#34; data-caption=&#34;Another day, another place, another breakfast table!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140309_085744-L.jpg&#34; data-caption=&#34;Another day, another place, another breakfast table!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140309_085744-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140309_085744-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5304,10 +5304,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-waiting-to-board-the-ferry-to-go-back-to-krabi&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140309_120356-L.jpg&#34; data-caption=&#34;Waiting to board the ferry to go back to Krabi&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140309_120356-L.jpg&#34; data-caption=&#34;Waiting to board the ferry to go back to Krabi&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140309_120356-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140309_120356-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5340,10 +5340,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-the-car-and-ac-is-always-on-to-beat-the-heat&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140309_121159-L.jpg&#34; data-caption=&#34;The car and a/c is always on to beat the heat!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140309_121159-L.jpg&#34; data-caption=&#34;The car and a/c is always on to beat the heat!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140309_121159-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140309_121159-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5376,10 +5376,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-the-tug-boat-which-helps-the-ferry-to-turn--align-with-the-pier&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140309_121301-L.jpg&#34; data-caption=&#34;The tug-boat which helps the ferry to turn &amp;amp; align with the pier.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140309_121301-L.jpg&#34; data-caption=&#34;The tug-boat which helps the ferry to turn &amp;amp; align with the pier.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140309_121301-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140309_121301-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5412,10 +5412,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-dakar-competitor&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/krabi_lanta/20140309_133120-L.jpg&#34; data-caption=&#34;Dakar Competitor?&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/krabi_lanta/20140309_133120-L.jpg&#34; data-caption=&#34;Dakar Competitor?&#34;&gt;
 
 
-  &lt;img src=&#34;/img/krabi_lanta/20140309_133120-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/krabi_lanta/20140309_133120-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5436,9 +5436,9 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
     
     <item>
       <title>North Head, Sydney</title>
-      <link>/blog/north-head/</link>
+      <link>https://www.nazim.dev/blog/north-head/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/north-head/</guid>
+      <guid>https://www.nazim.dev/blog/north-head/</guid>
       <description>&lt;p&gt;Walking from the Botanic gardens, I took a shortcut path to reach Circular Quay wharf across the &amp;ldquo;Memory is Creation Without End&amp;rdquo; relics.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Start Point:&lt;/strong&gt; Circular Quay Wharf.&lt;/p&gt;
 &lt;p&gt;One can also take a train to the Circular Quay station to reach the Circular Quay wharfs.&lt;/p&gt;
@@ -5468,10 +5468,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-customs-house-at-circular-quay&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_154118-3-XL.jpg&#34; data-caption=&#34;Customs House at Circular Quay&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_154118-3-XL.jpg&#34; data-caption=&#34;Customs House at Circular Quay&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_154118-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_154118-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5505,10 +5505,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_160225-3-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160225-3-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_160225-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160225-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5536,10 +5536,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_160253-3-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160253-3-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_160253-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160253-3-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5571,10 +5571,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-sydney-harbour-bridge&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_160303-2-XL.jpg&#34; data-caption=&#34;Sydney Harbour Bridge&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160303-2-XL.jpg&#34; data-caption=&#34;Sydney Harbour Bridge&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_160303-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_160303-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5607,10 +5607,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-manly-fast-ferry-departing-from-manly-wharf&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_163046-2-XL.jpg&#34; data-caption=&#34;Manly Fast Ferry departing from Manly Wharf&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_163046-2-XL.jpg&#34; data-caption=&#34;Manly Fast Ferry departing from Manly Wharf&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_163046-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_163046-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5651,10 +5651,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/Snip20190920_1-XL.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/Snip20190920_1-XL.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/Snip20190920_1-XL.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/Snip20190920_1-XL.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5683,10 +5683,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_170700-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170700-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_170700-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170700-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5714,10 +5714,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_170725-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170725-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_170725-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170725-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5744,10 +5744,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_170733-2-XL&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170733-2-XL&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_170733-2-XL&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170733-2-XL&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5774,10 +5774,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_174327-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174327-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_174327-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174327-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5804,10 +5804,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_174531-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174531-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_174531-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174531-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5835,10 +5835,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_174414-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174414-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_174414-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174414-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5866,10 +5866,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_174647-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174647-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_174647-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174647-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5896,10 +5896,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_174810-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174810-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_174810-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_174810-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5934,10 +5934,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_170908-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170908-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_170908-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170908-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -5964,10 +5964,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-wildlife&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_170951-2-XL.jpg&#34; data-caption=&#34;Wildlife!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170951-2-XL.jpg&#34; data-caption=&#34;Wildlife!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_170951-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_170951-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6001,10 +6001,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-no-footpath-be-careful-of-cars-while-walking&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171355-2-XL.jpg&#34; data-caption=&#34;No footpath! Be careful of cars while walking!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171355-2-XL.jpg&#34; data-caption=&#34;No footpath! Be careful of cars while walking!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171355-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171355-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6037,10 +6037,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171604-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171604-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171604-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171604-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6067,10 +6067,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-the-fairfax-lookout-trail&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171741-2-XL.jpg&#34; data-caption=&#34;The Fairfax lookout trail&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171741-2-XL.jpg&#34; data-caption=&#34;The Fairfax lookout trail&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171741-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171741-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6103,10 +6103,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171825-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171825-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171825-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171825-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6133,10 +6133,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-view-of-sydney-cbd-skyline-from-fairfax-lookout&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171920-2-XL.jpg&#34; data-caption=&#34;View of Sydney CBD Skyline from Fairfax lookout!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171920-2-XL.jpg&#34; data-caption=&#34;View of Sydney CBD Skyline from Fairfax lookout!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171920-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171920-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6170,10 +6170,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_171939-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171939-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_171939-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_171939-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6200,10 +6200,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172155-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172155-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172155-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172155-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6230,10 +6230,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-beautiful-sunset&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172233-XL.jpg&#34; data-caption=&#34;Beautiful sunset!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172233-XL.jpg&#34; data-caption=&#34;Beautiful sunset!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172233-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172233-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6266,10 +6266,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-the-manly-public-ferries-can-be-seen-in-the-picture&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172328-2-XL.jpg&#34; data-caption=&#34;The Manly public ferries can be seen in the picture!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172328-2-XL.jpg&#34; data-caption=&#34;The Manly public ferries can be seen in the picture!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172328-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172328-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6302,10 +6302,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-amazing-view-of-the-north-head-cliffs&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172342-2-XL.jpg&#34; data-caption=&#34;Amazing view of the North Head cliffs!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172342-2-XL.jpg&#34; data-caption=&#34;Amazing view of the North Head cliffs!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172342-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172342-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6338,10 +6338,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-fairfax-walking-track&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_173316-2-XL.jpg&#34; data-caption=&#34;Fairfax Walking Track&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173316-2-XL.jpg&#34; data-caption=&#34;Fairfax Walking Track&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_173316-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173316-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6374,10 +6374,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-fairfax-walk&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172623-2-XL.jpg&#34; data-caption=&#34;Fairfax Walk&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172623-2-XL.jpg&#34; data-caption=&#34;Fairfax Walk&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172623-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172623-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6410,10 +6410,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-north-head-artillery-lookout&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172757-2-XL.jpg&#34; data-caption=&#34;North Head Artillery Lookout&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172757-2-XL.jpg&#34; data-caption=&#34;North Head Artillery Lookout&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172757-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172757-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6446,10 +6446,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-view-from-inside&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172812-2-XL.jpg&#34; data-caption=&#34;View from inside!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172812-2-XL.jpg&#34; data-caption=&#34;View from inside!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172812-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172812-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6482,10 +6482,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-the-beautiful-path-overlooking-the-sea&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172837-2-XL.jpg&#34; data-caption=&#34;The beautiful path overlooking the sea!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172837-2-XL.jpg&#34; data-caption=&#34;The beautiful path overlooking the sea!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172837-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172837-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6518,10 +6518,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-north-head-artillery-lookout&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_172901-2-XL.jpg&#34; data-caption=&#34;North Head Artillery Lookout&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172901-2-XL.jpg&#34; data-caption=&#34;North Head Artillery Lookout&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_172901-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_172901-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6554,10 +6554,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_173054-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173054-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_173054-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173054-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6584,10 +6584,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_173211-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173211-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_173211-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_173211-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6617,10 +6617,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-third-quarantine-cemetery&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_175920-2-XL.jpg&#34; data-caption=&#34;Third Quarantine Cemetery&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_175920-2-XL.jpg&#34; data-caption=&#34;Third Quarantine Cemetery&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_175920-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_175920-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6653,10 +6653,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-third-quarantine-cemetery&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_175926-2-XL.jpg&#34; data-caption=&#34;Third Quarantine Cemetery&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_175926-2-XL.jpg&#34; data-caption=&#34;Third Quarantine Cemetery&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_175926-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_175926-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6691,10 +6691,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-q-station&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_181357-2-XL.jpg&#34; data-caption=&#34;Q Station&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_181357-2-XL.jpg&#34; data-caption=&#34;Q Station&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_181357-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_181357-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6733,10 +6733,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-view-of-the-sydney-opera-house-and-cbd-from-the-ferry&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_193815-2-XL.jpg&#34; data-caption=&#34;View of the Sydney Opera house and CBD from the ferry&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193815-2-XL.jpg&#34; data-caption=&#34;View of the Sydney Opera house and CBD from the ferry&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_193815-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193815-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6769,10 +6769,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-sydney-opera-house&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_193927-2-XL.jpg&#34; data-caption=&#34;Sydney Opera House&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193927-2-XL.jpg&#34; data-caption=&#34;Sydney Opera House&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_193927-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193927-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6805,10 +6805,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-sydney-harbour-bridge&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_193954-2-XL.jpg&#34; data-caption=&#34;Sydney Harbour Bridge&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193954-2-XL.jpg&#34; data-caption=&#34;Sydney Harbour Bridge&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_193954-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_193954-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6841,10 +6841,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-view-of-the-harbour-bridge-from-the-circular-quay-wharf&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_195145-2-XL.jpg&#34; data-caption=&#34;View of the harbour bridge from the Circular Quay wharf.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_195145-2-XL.jpg&#34; data-caption=&#34;View of the harbour bridge from the Circular Quay wharf.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_195145-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_195145-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6877,10 +6877,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-pitt-street-mall&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_202257-2-XL.jpg&#34; data-caption=&#34;Pitt Street Mall&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_202257-2-XL.jpg&#34; data-caption=&#34;Pitt Street Mall&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_202257-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_202257-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6913,10 +6913,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-sydney-town-hall&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/north-head/IMG_20190919_202921-2-XL.jpg&#34; data-caption=&#34;Sydney Town Hall&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_202921-2-XL.jpg&#34; data-caption=&#34;Sydney Town Hall&#34;&gt;
 
 
-  &lt;img src=&#34;/img/north-head/IMG_20190919_202921-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/north-head/IMG_20190919_202921-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -6935,9 +6935,9 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
     
     <item>
       <title>Royal Botanic Garden, Sydney</title>
-      <link>/blog/royal-botanic-garden-sydney/</link>
+      <link>https://www.nazim.dev/blog/royal-botanic-garden-sydney/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/royal-botanic-garden-sydney/</guid>
+      <guid>https://www.nazim.dev/blog/royal-botanic-garden-sydney/</guid>
       <description>&lt;p&gt;Explored the Royal Botanic Garden at Sydney on 19th September 2019.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The Royal Botanic Garden, Sydney is a heritage-listed major 30-hectare (74-acre) botanical garden, event venue and public recreation area located at Farm Cove on the eastern fringe of the Sydney central business district, in the City of Sydney local government area of New South Wales, Australia.&lt;/p&gt;
@@ -6965,10 +6965,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-walking-to-the-gardens-from-martin-place-station&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_141747-XL.jpg&#34; data-caption=&#34;Walking to the gardens from Martin Place station&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_141747-XL.jpg&#34; data-caption=&#34;Walking to the gardens from Martin Place station&#34;&gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_141747-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_141747-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7001,10 +7001,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-entrance-to-the-garden&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_142328-2-XL.jpg&#34; data-caption=&#34;Entrance to the garden&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_142328-2-XL.jpg&#34; data-caption=&#34;Entrance to the garden&#34;&gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_142328-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_142328-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7037,10 +7037,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-the-calyx&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_143125-2-XL.jpg&#34; data-caption=&#34;The Calyx&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_143125-2-XL.jpg&#34; data-caption=&#34;The Calyx&#34;&gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_143125-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_143125-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7073,10 +7073,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_143408-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_143408-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_143408-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_143408-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7103,10 +7103,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144218-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144218-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144218-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144218-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7133,10 +7133,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144235-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144235-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144235-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144235-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7163,10 +7163,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144617-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144617-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144617-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144617-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7193,10 +7193,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144700-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144700-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144700-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144700-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7223,10 +7223,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144727-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144727-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_144727-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_144727-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7253,10 +7253,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_145019-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_145019-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_145019-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_145019-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7283,10 +7283,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-maiden-pavilion&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_145219-2-XL.jpg&#34; data-caption=&#34;Maiden Pavilion&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_145219-2-XL.jpg&#34; data-caption=&#34;Maiden Pavilion&#34;&gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_145219-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_145219-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7322,10 +7322,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure id=&#34;figure-sydney-harbor-bridge-and-opera-house-as-seen-from-mrs-macquaries-chair&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150412-2-XL.jpg&#34; data-caption=&#34;Sydney Harbor bridge and Opera house as seen from Mrs. Macquarie&amp;rsquo;s chair&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150412-2-XL.jpg&#34; data-caption=&#34;Sydney Harbor bridge and Opera house as seen from Mrs. Macquarie&amp;rsquo;s chair&#34;&gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150412-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150412-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7359,10 +7359,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150627-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150627-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150627-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150627-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7389,10 +7389,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150757-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150757-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_150757-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_150757-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7419,10 +7419,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152217-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152217-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152217-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152217-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7449,10 +7449,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152327-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152327-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152327-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152327-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7479,10 +7479,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152338-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152338-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152338-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152338-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7509,10 +7509,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152501-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152501-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_152501-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_152501-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7539,10 +7539,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_153239-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_153239-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_153239-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_153239-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7569,10 +7569,10 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_153317-2-XL.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_153317-2-XL.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/royal-botanic-garden-sydney/IMG_20190919_153317-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/royal-botanic-garden-sydney/IMG_20190919_153317-2-XL.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7585,9 +7585,9 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
     
     <item>
       <title>PUB - Hari Raya Ad (2019)</title>
-      <link>/blog/pub-hari-raya-ad/</link>
+      <link>https://www.nazim.dev/blog/pub-hari-raya-ad/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/pub-hari-raya-ad/</guid>
+      <guid>https://www.nazim.dev/blog/pub-hari-raya-ad/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;An excellent ad by Public Utilities Board, Singapore on Kinship for Hari Raya 2019.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -7602,9 +7602,9 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
     
     <item>
       <title>Ghost (blog) on AWS Lightsail with Nginx, Let&#39;s Encrypt &amp; Mailgun</title>
-      <link>/blog/ghost-on-aws-lightsail/</link>
+      <link>https://www.nazim.dev/blog/ghost-on-aws-lightsail/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/ghost-on-aws-lightsail/</guid>
+      <guid>https://www.nazim.dev/blog/ghost-on-aws-lightsail/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Ghost is a free and open source blogging platform written in JavaScript and distributed under the MIT License, designed to simplify the process of online publishing for individual bloggers as well as online publications.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -7627,7 +7627,7 @@ This sheltered and shallow channel is an ideal habitat for reef fish, and the pl
 &lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;
 &lt;p&gt;Create a Lightsail Instance
 You can read about &lt;strong&gt;AWS Lightsail&lt;/strong&gt; from my previous post 
-&lt;a href=&#34;/blog/aws-lightsail/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.nazim.dev/blog/aws-lightsail/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Login/create an account with AWS Lightsail and then create an instance:&lt;/strong&gt;
 
 
@@ -7649,10 +7649,10 @@ You can read about &lt;strong&gt;AWS Lightsail&lt;/strong&gt; from my previous p
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Snip20190519_1.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_1.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Snip20190519_1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7683,10 +7683,10 @@ You can read about &lt;strong&gt;AWS Lightsail&lt;/strong&gt; from my previous p
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Snip20190519_3.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_3.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Snip20190519_3.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_3.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7714,10 +7714,10 @@ You can read about &lt;strong&gt;AWS Lightsail&lt;/strong&gt; from my previous p
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Snip20190519_4.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_4.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Snip20190519_4.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_4.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7757,10 +7757,10 @@ sudo apt-get upgrade
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Snip20190519_5.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_5.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Snip20190519_5.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_5.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7814,10 +7814,10 @@ sudo apt-get install nginx
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Snip20190520_6.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190520_6.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Snip20190520_6.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190520_6.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -7995,9 +7995,9 @@ docker run --name ghost \
     
     <item>
       <title>AWS Lightsail</title>
-      <link>/blog/aws-lightsail/</link>
+      <link>https://www.nazim.dev/blog/aws-lightsail/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/aws-lightsail/</guid>
+      <guid>https://www.nazim.dev/blog/aws-lightsail/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Amazon&amp;rsquo;s lightsail&lt;/strong&gt; is a low cost VPS (Virtual Private Servers) with plans starting as low as $3.50 USD per month.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -8025,10 +8025,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-linux---apps--os&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Linux_App_OS.jpeg&#34; data-caption=&#34;Linux - Apps &amp;#43; OS&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Linux_App_OS.jpeg&#34; data-caption=&#34;Linux - Apps &amp;#43; OS&#34;&gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Linux_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Linux_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8061,10 +8061,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-linux---os-only&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Linux_OS_Only.jpeg&#34; data-caption=&#34;Linux - OS Only&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Linux_OS_Only.jpeg&#34; data-caption=&#34;Linux - OS Only&#34;&gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Linux_OS_Only.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Linux_OS_Only.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8097,10 +8097,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-linux---os-only&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Windows_App_OS.jpeg&#34; data-caption=&#34;Linux - OS Only&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_App_OS.jpeg&#34; data-caption=&#34;Linux - OS Only&#34;&gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Windows_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8133,10 +8133,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-windows---apps--os&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Windows_App_OS.jpeg&#34; data-caption=&#34;Windows - Apps &amp;#43; OS&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_App_OS.jpeg&#34; data-caption=&#34;Windows - Apps &amp;#43; OS&#34;&gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Windows_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8169,10 +8169,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-windows---os-only&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Windows_OS_Only.jpeg&#34; data-caption=&#34;Windows - OS Only&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_OS_Only.jpeg&#34; data-caption=&#34;Windows - OS Only&#34;&gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Windows_OS_Only.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_OS_Only.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8215,9 +8215,9 @@ docker run --name ghost \
     
     <item>
       <title>My Home Assistant Setup</title>
-      <link>/blog/my-home-assistant-setup/</link>
+      <link>https://www.nazim.dev/blog/my-home-assistant-setup/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/my-home-assistant-setup/</guid>
+      <guid>https://www.nazim.dev/blog/my-home-assistant-setup/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -8257,10 +8257,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-home-ui---lovelace-main-page&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/home-assistant/Snip20190515_3.png&#34; data-caption=&#34;Home UI - Lovelace Main Page&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_3.png&#34; data-caption=&#34;Home UI - Lovelace Main Page&#34;&gt;
 
 
-  &lt;img src=&#34;/img/home-assistant/Snip20190515_3.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_3.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8293,10 +8293,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-room-light-and-ac-controls-with-temperaturehumidity-monitor&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/home-assistant/Snip20190515_1.png&#34; data-caption=&#34;Room light and A/c controls with temperature/humidity monitor&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_1.png&#34; data-caption=&#34;Room light and A/c controls with temperature/humidity monitor&#34;&gt;
 
 
-  &lt;img src=&#34;/img/home-assistant/Snip20190515_1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8329,10 +8329,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-device-trackers-and-information-page&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/home-assistant/Snip20190515_2.png&#34; data-caption=&#34;Device trackers and Information page&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_2.png&#34; data-caption=&#34;Device trackers and Information page&#34;&gt;
 
 
-  &lt;img src=&#34;/img/home-assistant/Snip20190515_2.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_2.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8351,9 +8351,9 @@ docker run --name ghost \
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>https://www.nazim.dev/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
+      <guid>https://www.nazim.dev/privacy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;All Photographs on &lt;a href=&#34;https://www.nazim.dev&#34;&gt;https://www.nazim.dev&lt;/a&gt; are copyrighted unless specified.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;At Nazim.dev, accessible from &lt;a href=&#34;https://www.nazim.dev&#34;&gt;https://www.nazim.dev&lt;/a&gt;, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Nazim.dev and how we use it.&lt;/p&gt;
 &lt;p&gt;If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p&gt;
@@ -8417,9 +8417,9 @@ docker run --name ghost \
     
     <item>
       <title>Showing that you’re working is just as important as actually working</title>
-      <link>/blog/show-working/</link>
+      <link>https://www.nazim.dev/blog/show-working/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/blog/show-working/</guid>
+      <guid>https://www.nazim.dev/blog/show-working/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;I’ve seen this way too many times in the workplace. The best workers assume that their work will be recognized, but consistently fail to showcase it. The worst ones, meanwhile, showcase minor accomplishments as major achievements - and get rewarded for it.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -8427,15 +8427,15 @@ docker run --name ghost \
 &lt;p&gt;Interestingly, I’ve also found that in most cases, the former group has way more girls in it than the latter…
 &lt;strong&gt;People, when you work hard, don’t forget to show that you work hard!&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;span class=&#39;quora-content-embed&#39; data-name=&#39;What-is-something-that-needs-to-be-said-that-nobody-wants-to-hear/answer/Julia-Kvach&#39;&gt;Read &lt;a class=&#39;quora-content-link&#39; data-width=&#39;560&#39; data-height=&#39;260&#39; href=&#39;https://www.quora.com/What-is-something-that-needs-to-be-said-that-nobody-wants-to-hear/answer/Julia-Kvach&#39; data-type=&#39;answer&#39; data-id=&#39;80641793&#39; data-key=&#39;4cd294a9e17e1e207b4ce035de5ec118&#39; load-full-answer=&#39;False&#39; data-embed=&#39;AHcb9vM&#39;&gt;&lt;a href=&#39;https://www.quora.com/Julia-Kvach&#39;&gt;Julia Kvach&lt;/a&gt;�s &lt;a href=&#39;/What-is-something-that-needs-to-be-said-that-nobody-wants-to-hear?top_ans=80641793&#39;&gt;answer&lt;/a&gt; to &lt;a href=&#39;/What-is-something-that-needs-to-be-said-that-nobody-wants-to-hear&#39; ref=&#39;canonical&#39;&gt;&lt;span class=&#34;rendered_qtext&#34;&gt;What is something that needs to be said that nobody wants to hear?&lt;/span&gt;&lt;/a&gt;&lt;/a&gt; on &lt;a href=&#39;https://www.quora.com&#39;&gt;Quora&lt;/a&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.quora.com/widgets/content&#34;&gt;&lt;/script&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#39;quora-content-embed&#39; data-name=&#39;What-is-something-that-needs-to-be-said-that-nobody-wants-to-hear/answer/Julia-Kvach&#39;&gt;Read &lt;a class=&#39;quora-content-link&#39; data-width=&#39;560&#39; data-height=&#39;260&#39; href=&#39;https://www.quora.com/What-is-something-that-needs-to-be-said-that-nobody-wants-to-hear/answer/Julia-Kvach&#39; data-type=&#39;answer&#39; data-id=&#39;80641793&#39; data-key=&#39;4cd294a9e17e1e207b4ce035de5ec118&#39; load-full-answer=&#39;False&#39; data-embed=&#39;AHcb9vM&#39;&gt;&lt;a href=&#39;https://www.quora.com/Julia-Kvach&#39;&gt;Julia Kvach&lt;/a&gt;�s &lt;a href=&#39;https://www.nazim.dev/What-is-something-that-needs-to-be-said-that-nobody-wants-to-hear?top_ans=80641793&#39;&gt;answer&lt;/a&gt; to &lt;a href=&#39;https://www.nazim.dev/What-is-something-that-needs-to-be-said-that-nobody-wants-to-hear&#39; ref=&#39;canonical&#39;&gt;&lt;span class=&#34;rendered_qtext&#34;&gt;What is something that needs to be said that nobody wants to hear?&lt;/span&gt;&lt;/a&gt;&lt;/a&gt; on &lt;a href=&#39;https://www.quora.com&#39;&gt;Quora&lt;/a&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.quora.com/widgets/content&#34;&gt;&lt;/script&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Chennai Metro</title>
-      <link>/blog/chennai-metro/</link>
+      <link>https://www.nazim.dev/blog/chennai-metro/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/blog/chennai-metro/</guid>
+      <guid>https://www.nazim.dev/blog/chennai-metro/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;The &lt;strong&gt;Chennai Metro&lt;/strong&gt; is a rapid transit system serving the city of Chennai, Tamil Nadu, India. The system commenced service in 2015 after partially opening the first phase of the project. The network consists of two colour-coded lines covering a length of 45 kilometres (28 mi).&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -8465,10 +8465,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-nehru-park-station-entrance&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_081729-L.jpg&#34; data-caption=&#34;Nehru Park Station Entrance&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_081729-L.jpg&#34; data-caption=&#34;Nehru Park Station Entrance&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_081729-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_081729-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8501,10 +8501,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-nehru-park-station-entrance&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_081734-L.jpg&#34; data-caption=&#34;Nehru Park Station Entrance&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_081734-L.jpg&#34; data-caption=&#34;Nehru Park Station Entrance&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_081734-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_081734-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8537,10 +8537,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-platform-level&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_082257-L.jpg&#34; data-caption=&#34;Platform level&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_082257-L.jpg&#34; data-caption=&#34;Platform level&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_082257-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_082257-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8573,10 +8573,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-receipt-for-travel-card&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_082407-L.jpg&#34; data-caption=&#34;Receipt for travel card&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_082407-L.jpg&#34; data-caption=&#34;Receipt for travel card&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_082407-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_082407-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8609,10 +8609,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-signs-showing-the-time-for-next-train&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_082502_HDR-L.jpg&#34; data-caption=&#34;Signs showing the time for next train&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_082502_HDR-L.jpg&#34; data-caption=&#34;Signs showing the time for next train&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_082502_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_082502_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8645,10 +8645,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-stations-map&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_082732_HDR-L.jpg&#34; data-caption=&#34;Stations map&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_082732_HDR-L.jpg&#34; data-caption=&#34;Stations map&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_082732_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_082732_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8681,10 +8681,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-alstom-coaches&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_082945_HDR-L.jpg&#34; data-caption=&#34;Alstom coaches&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_082945_HDR-L.jpg&#34; data-caption=&#34;Alstom coaches&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_082945_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_082945_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8717,10 +8717,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-emergency-communication-button&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_083038_HDR-L.jpg&#34; data-caption=&#34;Emergency communication button&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_083038_HDR-L.jpg&#34; data-caption=&#34;Emergency communication button&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_083038_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_083038_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8753,10 +8753,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-alstom-coaches---interior&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_083043_HDR-L.jpg&#34; data-caption=&#34;Alstom coaches - Interior&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_083043_HDR-L.jpg&#34; data-caption=&#34;Alstom coaches - Interior&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_083043_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_083043_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8789,10 +8789,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-alstom-coaches---interior&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_083117_HDR-L.jpg&#34; data-caption=&#34;Alstom coaches - Interior&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_083117_HDR-L.jpg&#34; data-caption=&#34;Alstom coaches - Interior&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_083117_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_083117_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8825,10 +8825,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-travel-card&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_083330_HDR-L.jpg&#34; data-caption=&#34;Travel Card&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_083330_HDR-L.jpg&#34; data-caption=&#34;Travel Card&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_083330_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_083330_HDR-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8861,10 +8861,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-approaching-airport&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_091358-L.jpg&#34; data-caption=&#34;Approaching Airport&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_091358-L.jpg&#34; data-caption=&#34;Approaching Airport&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_091358-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_091358-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8897,10 +8897,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-staircase-from-metro-to-airport&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_091736-L.jpg&#34; data-caption=&#34;Staircase from Metro to Airport&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_091736-L.jpg&#34; data-caption=&#34;Staircase from Metro to Airport&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_091736-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_091736-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8933,10 +8933,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-link-bridge-from-airport-to-metro-station&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chennai_metro/IMG_20170722_091830-L.jpg&#34; data-caption=&#34;Link bridge from Airport to Metro Station&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_091830-L.jpg&#34; data-caption=&#34;Link bridge from Airport to Metro Station&#34;&gt;
 
 
-  &lt;img src=&#34;/img/chennai_metro/IMG_20170722_091830-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/chennai_metro/IMG_20170722_091830-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -8955,9 +8955,9 @@ docker run --name ghost \
     
     <item>
       <title>Pale Blue Dot</title>
-      <link>/blog/pale-blue-dot/</link>
+      <link>https://www.nazim.dev/blog/pale-blue-dot/</link>
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>/blog/pale-blue-dot/</guid>
+      <guid>https://www.nazim.dev/blog/pale-blue-dot/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Pale Blue Dot&lt;/strong&gt; is a photograph of planet Earth taken in 1990 by the &lt;strong&gt;Voyager 1&lt;/strong&gt; spaceprobe from a record distance of about &lt;strong&gt;6 billion kilometers (3.7 billion miles, 40 AU)&lt;/strong&gt; from Earth, as part of the solar system Family Portrait series of images.&lt;/p&gt;
 &lt;p&gt;In the photograph, Earth is shown as a fraction of a pixel (0.12 pixel in size) against the vastness of space. The Voyager 1 spacecraft, which had completed its primary mission and was leaving the Solar System, was commanded by NASA to turn its camera around and to take a photograph of Earth across a great expanse of space, at the request of &lt;strong&gt;Carl Sagan&lt;/strong&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -8970,18 +8970,18 @@ docker run --name ghost \
     
     <item>
       <title>Running is good for you!</title>
-      <link>/blog/garfield-running/</link>
+      <link>https://www.nazim.dev/blog/garfield-running/</link>
       <pubDate>Mon, 08 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>/blog/garfield-running/</guid>
+      <guid>https://www.nazim.dev/blog/garfield-running/</guid>
       <description>&lt;p&gt;One of the best Garfield comic strip!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Virgin MVR-02</title>
-      <link>/blog/virgin-mvr-02/</link>
+      <link>https://www.nazim.dev/blog/virgin-mvr-02/</link>
       <pubDate>Sat, 24 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>/blog/virgin-mvr-02/</guid>
+      <guid>https://www.nazim.dev/blog/virgin-mvr-02/</guid>
       <description>&lt;p&gt;Shot at Singapore Grand Prix in 2011 using a Nikon D60 and Nikon AF-S DX VR Nikkor 55-300mm f/4.5-5.6G ED lens.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;EXIF:
 195mm ƒ/5.3 1/40s ISO 200
@@ -8997,9 +8997,9 @@ docker run --name ghost \
     
     <item>
       <title>Raymond&#39;s Tomb</title>
-      <link>/blog/raymonds-tomb/</link>
+      <link>https://www.nazim.dev/blog/raymonds-tomb/</link>
       <pubDate>Thu, 25 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>/blog/raymonds-tomb/</guid>
+      <guid>https://www.nazim.dev/blog/raymonds-tomb/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Hyderabad is known for its rich history, culture and architecture representing its unique character as a meeting point for North and South India, and also its multicultural nature, geographically, culturally and intellectually. Also known as The City of Nizams and The City of Pearls.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -9042,10 +9042,10 @@ docker run --name ghost \
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-jzjqVLB-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-jzjqVLB-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-jzjqVLB-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-jzjqVLB-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9072,10 +9072,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-this-one-picture-is-sufficient-to-prove-the-state-of-maintenance-here&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-5fLTMfv-L.jpg&#34; data-caption=&#34;This one picture is sufficient to prove the state of maintenance here!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-5fLTMfv-L.jpg&#34; data-caption=&#34;This one picture is sufficient to prove the state of maintenance here!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-5fLTMfv-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-5fLTMfv-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9109,10 +9109,10 @@ docker run --name ghost \
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-jdsxpjH-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-jdsxpjH-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-jdsxpjH-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-jdsxpjH-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9139,10 +9139,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-and-heres-the-proof&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-zbfSd8d-L.jpg&#34; data-caption=&#34;And here&amp;rsquo;s the proof&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-zbfSd8d-L.jpg&#34; data-caption=&#34;And here&amp;rsquo;s the proof&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-zbfSd8d-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-zbfSd8d-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9176,10 +9176,10 @@ docker run --name ghost \
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-4PnfbQC-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-4PnfbQC-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-4PnfbQC-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-4PnfbQC-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9206,10 +9206,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-a-brief-history&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-9hsLPJH-L.jpg&#34; data-caption=&#34;A brief history&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-9hsLPJH-L.jpg&#34; data-caption=&#34;A brief history&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-9hsLPJH-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-9hsLPJH-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9242,10 +9242,10 @@ docker run --name ghost \
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-b4wGffJ-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-b4wGffJ-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-b4wGffJ-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-b4wGffJ-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9273,10 +9273,10 @@ docker run --name ghost \
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-zNnJHTT-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-zNnJHTT-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-zNnJHTT-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-zNnJHTT-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9303,10 +9303,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-jr-written-on-the-tomb&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-PgnSv3h-L.jpg&#34; data-caption=&#34;J.R Written on the tomb&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-PgnSv3h-L.jpg&#34; data-caption=&#34;J.R Written on the tomb&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-PgnSv3h-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-PgnSv3h-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9340,10 +9340,10 @@ docker run --name ghost \
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-QWWvHWJ-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-QWWvHWJ-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-QWWvHWJ-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-QWWvHWJ-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9370,10 +9370,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-view-from-the-hillock&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-Wmvwgrz-L.jpg&#34; data-caption=&#34;View from the hillock&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-Wmvwgrz-L.jpg&#34; data-caption=&#34;View from the hillock&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-Wmvwgrz-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-Wmvwgrz-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9406,10 +9406,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-tv-tower-as-seen-from-the-tomb&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-c2pTRHN-L.jpg&#34; data-caption=&#34;TV Tower as seen from the tomb&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-c2pTRHN-L.jpg&#34; data-caption=&#34;TV Tower as seen from the tomb&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-c2pTRHN-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-c2pTRHN-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9442,10 +9442,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-the-yellow-building-in-the-center-is-the-asmangadh-palace&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-ZMgjqJ4-L.jpg&#34; data-caption=&#34;The yellow building in the center is the AsmanGadh Palace&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-ZMgjqJ4-L.jpg&#34; data-caption=&#34;The yellow building in the center is the AsmanGadh Palace&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-ZMgjqJ4-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-ZMgjqJ4-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -9464,17 +9464,17 @@ docker run --name ghost \
     
     <item>
       <title></title>
-      <link>/home/</link>
+      <link>https://www.nazim.dev/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home/</guid>
+      <guid>https://www.nazim.dev/home/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/posts/</link>
+      <link>https://www.nazim.dev/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/</guid>
+      <guid>https://www.nazim.dev/posts/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Singapore | Nazim</title>
-    <link>/tags/singapore/</link>
-      <atom:link href="/tags/singapore/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.nazim.dev/tags/singapore/</link>
+      <atom:link href="https://www.nazim.dev/tags/singapore/index.xml" rel="self" type="application/rss+xml" />
     <description>Singapore</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Sat, 24 Sep 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Singapore</title>
-      <link>/tags/singapore/</link>
+      <link>https://www.nazim.dev/tags/singapore/</link>
     </image>
     
     <item>
       <title>Virgin MVR-02</title>
-      <link>/blog/virgin-mvr-02/</link>
+      <link>https://www.nazim.dev/blog/virgin-mvr-02/</link>
       <pubDate>Sat, 24 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>/blog/virgin-mvr-02/</guid>
+      <guid>https://www.nazim.dev/blog/virgin-mvr-02/</guid>
       <description>&lt;p&gt;Shot at Singapore Grand Prix in 2011 using a Nikon D60 and Nikon AF-S DX VR Nikkor 55-300mm f/4.5-5.6G ED lens.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;EXIF:
 195mm ƒ/5.3 1/40s ISO 200

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General | Nazim</title>
-    <link>/tags/general/</link>
-      <atom:link href="/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.nazim.dev/tags/general/</link>
+      <atom:link href="https://www.nazim.dev/tags/general/index.xml" rel="self" type="application/rss+xml" />
     <description>General</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Mon, 03 Nov 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>General</title>
-      <link>/tags/general/</link>
+      <link>https://www.nazim.dev/tags/general/</link>
     </image>
     
     <item>
       <title>Pale Blue Dot</title>
-      <link>/blog/pale-blue-dot/</link>
+      <link>https://www.nazim.dev/blog/pale-blue-dot/</link>
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>/blog/pale-blue-dot/</guid>
+      <guid>https://www.nazim.dev/blog/pale-blue-dot/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Pale Blue Dot&lt;/strong&gt; is a photograph of planet Earth taken in 1990 by the &lt;strong&gt;Voyager 1&lt;/strong&gt; spaceprobe from a record distance of about &lt;strong&gt;6 billion kilometers (3.7 billion miles, 40 AU)&lt;/strong&gt; from Earth, as part of the solar system Family Portrait series of images.&lt;/p&gt;
 &lt;p&gt;In the photograph, Earth is shown as a fraction of a pixel (0.12 pixel in size) against the vastness of space. The Voyager 1 spacecraft, which had completed its primary mission and was leaving the Solar System, was commanded by NASA to turn its camera around and to take a photograph of Earth across a great expanse of space, at the request of &lt;strong&gt;Carl Sagan&lt;/strong&gt;.&lt;/p&gt;
 &lt;blockquote&gt;

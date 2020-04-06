@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech | Nazim</title>
-    <link>/tags/tech/</link>
-      <atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.nazim.dev/tags/tech/</link>
+      <atom:link href="https://www.nazim.dev/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <description>Tech</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Tech</title>
-      <link>/tags/tech/</link>
+      <link>https://www.nazim.dev/tags/tech/</link>
     </image>
     
     <item>
       <title>Ghost (blog) on AWS Lightsail with Nginx, Let&#39;s Encrypt &amp; Mailgun</title>
-      <link>/blog/ghost-on-aws-lightsail/</link>
+      <link>https://www.nazim.dev/blog/ghost-on-aws-lightsail/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/ghost-on-aws-lightsail/</guid>
+      <guid>https://www.nazim.dev/blog/ghost-on-aws-lightsail/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Ghost is a free and open source blogging platform written in JavaScript and distributed under the MIT License, designed to simplify the process of online publishing for individual bloggers as well as online publications.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -39,7 +39,7 @@
 &lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;
 &lt;p&gt;Create a Lightsail Instance
 You can read about &lt;strong&gt;AWS Lightsail&lt;/strong&gt; from my previous post 
-&lt;a href=&#34;/blog/aws-lightsail/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.nazim.dev/blog/aws-lightsail/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Login/create an account with AWS Lightsail and then create an instance:&lt;/strong&gt;
 
 
@@ -61,10 +61,10 @@ You can read about &lt;strong&gt;AWS Lightsail&lt;/strong&gt; from my previous p
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Snip20190519_1.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_1.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Snip20190519_1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -95,10 +95,10 @@ You can read about &lt;strong&gt;AWS Lightsail&lt;/strong&gt; from my previous p
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Snip20190519_3.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_3.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Snip20190519_3.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_3.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -126,10 +126,10 @@ You can read about &lt;strong&gt;AWS Lightsail&lt;/strong&gt; from my previous p
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Snip20190519_4.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_4.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Snip20190519_4.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_4.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -169,10 +169,10 @@ sudo apt-get upgrade
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Snip20190519_5.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_5.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Snip20190519_5.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190519_5.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -226,10 +226,10 @@ sudo apt-get install nginx
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Snip20190520_6.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190520_6.png&#34; &gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Snip20190520_6.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Snip20190520_6.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -407,9 +407,9 @@ docker run --name ghost \
     
     <item>
       <title>AWS Lightsail</title>
-      <link>/blog/aws-lightsail/</link>
+      <link>https://www.nazim.dev/blog/aws-lightsail/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/aws-lightsail/</guid>
+      <guid>https://www.nazim.dev/blog/aws-lightsail/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Amazon&amp;rsquo;s lightsail&lt;/strong&gt; is a low cost VPS (Virtual Private Servers) with plans starting as low as $3.50 USD per month.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -437,10 +437,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-linux---apps--os&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Linux_App_OS.jpeg&#34; data-caption=&#34;Linux - Apps &amp;#43; OS&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Linux_App_OS.jpeg&#34; data-caption=&#34;Linux - Apps &amp;#43; OS&#34;&gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Linux_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Linux_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -473,10 +473,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-linux---os-only&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Linux_OS_Only.jpeg&#34; data-caption=&#34;Linux - OS Only&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Linux_OS_Only.jpeg&#34; data-caption=&#34;Linux - OS Only&#34;&gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Linux_OS_Only.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Linux_OS_Only.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -509,10 +509,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-linux---os-only&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Windows_App_OS.jpeg&#34; data-caption=&#34;Linux - OS Only&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_App_OS.jpeg&#34; data-caption=&#34;Linux - OS Only&#34;&gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Windows_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -545,10 +545,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-windows---apps--os&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Windows_App_OS.jpeg&#34; data-caption=&#34;Windows - Apps &amp;#43; OS&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_App_OS.jpeg&#34; data-caption=&#34;Windows - Apps &amp;#43; OS&#34;&gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Windows_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_App_OS.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -581,10 +581,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-windows---os-only&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/aws-lightsail/Windows_OS_Only.jpeg&#34; data-caption=&#34;Windows - OS Only&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_OS_Only.jpeg&#34; data-caption=&#34;Windows - OS Only&#34;&gt;
 
 
-  &lt;img src=&#34;/img/aws-lightsail/Windows_OS_Only.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/aws-lightsail/Windows_OS_Only.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -627,9 +627,9 @@ docker run --name ghost \
     
     <item>
       <title>My Home Assistant Setup</title>
-      <link>/blog/my-home-assistant-setup/</link>
+      <link>https://www.nazim.dev/blog/my-home-assistant-setup/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/my-home-assistant-setup/</guid>
+      <guid>https://www.nazim.dev/blog/my-home-assistant-setup/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -669,10 +669,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-home-ui---lovelace-main-page&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/home-assistant/Snip20190515_3.png&#34; data-caption=&#34;Home UI - Lovelace Main Page&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_3.png&#34; data-caption=&#34;Home UI - Lovelace Main Page&#34;&gt;
 
 
-  &lt;img src=&#34;/img/home-assistant/Snip20190515_3.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_3.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -705,10 +705,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-room-light-and-ac-controls-with-temperaturehumidity-monitor&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/home-assistant/Snip20190515_1.png&#34; data-caption=&#34;Room light and A/c controls with temperature/humidity monitor&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_1.png&#34; data-caption=&#34;Room light and A/c controls with temperature/humidity monitor&#34;&gt;
 
 
-  &lt;img src=&#34;/img/home-assistant/Snip20190515_1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -741,10 +741,10 @@ docker run --name ghost \
 &lt;figure id=&#34;figure-device-trackers-and-information-page&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/home-assistant/Snip20190515_2.png&#34; data-caption=&#34;Device trackers and Information page&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_2.png&#34; data-caption=&#34;Device trackers and Information page&#34;&gt;
 
 
-  &lt;img src=&#34;/img/home-assistant/Snip20190515_2.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/home-assistant/Snip20190515_2.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

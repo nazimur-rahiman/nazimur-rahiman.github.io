@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyderabad | Nazim</title>
-    <link>/tags/hyderabad/</link>
-      <atom:link href="/tags/hyderabad/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.nazim.dev/tags/hyderabad/</link>
+      <atom:link href="https://www.nazim.dev/tags/hyderabad/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyderabad</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Thu, 25 Jun 2009 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Hyderabad</title>
-      <link>/tags/hyderabad/</link>
+      <link>https://www.nazim.dev/tags/hyderabad/</link>
     </image>
     
     <item>
       <title>Raymond&#39;s Tomb</title>
-      <link>/blog/raymonds-tomb/</link>
+      <link>https://www.nazim.dev/blog/raymonds-tomb/</link>
       <pubDate>Thu, 25 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>/blog/raymonds-tomb/</guid>
+      <guid>https://www.nazim.dev/blog/raymonds-tomb/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Hyderabad is known for its rich history, culture and architecture representing its unique character as a meeting point for North and South India, and also its multicultural nature, geographically, culturally and intellectually. Also known as The City of Nizams and The City of Pearls.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -59,10 +59,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-jzjqVLB-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-jzjqVLB-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-jzjqVLB-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-jzjqVLB-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -89,10 +89,10 @@
 &lt;figure id=&#34;figure-this-one-picture-is-sufficient-to-prove-the-state-of-maintenance-here&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-5fLTMfv-L.jpg&#34; data-caption=&#34;This one picture is sufficient to prove the state of maintenance here!&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-5fLTMfv-L.jpg&#34; data-caption=&#34;This one picture is sufficient to prove the state of maintenance here!&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-5fLTMfv-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-5fLTMfv-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -126,10 +126,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-jdsxpjH-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-jdsxpjH-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-jdsxpjH-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-jdsxpjH-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -156,10 +156,10 @@
 &lt;figure id=&#34;figure-and-heres-the-proof&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-zbfSd8d-L.jpg&#34; data-caption=&#34;And here&amp;rsquo;s the proof&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-zbfSd8d-L.jpg&#34; data-caption=&#34;And here&amp;rsquo;s the proof&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-zbfSd8d-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-zbfSd8d-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -193,10 +193,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-4PnfbQC-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-4PnfbQC-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-4PnfbQC-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-4PnfbQC-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -223,10 +223,10 @@
 &lt;figure id=&#34;figure-a-brief-history&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-9hsLPJH-L.jpg&#34; data-caption=&#34;A brief history&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-9hsLPJH-L.jpg&#34; data-caption=&#34;A brief history&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-9hsLPJH-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-9hsLPJH-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -259,10 +259,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-b4wGffJ-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-b4wGffJ-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-b4wGffJ-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-b4wGffJ-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -290,10 +290,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-zNnJHTT-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-zNnJHTT-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-zNnJHTT-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-zNnJHTT-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -320,10 +320,10 @@
 &lt;figure id=&#34;figure-jr-written-on-the-tomb&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-PgnSv3h-L.jpg&#34; data-caption=&#34;J.R Written on the tomb&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-PgnSv3h-L.jpg&#34; data-caption=&#34;J.R Written on the tomb&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-PgnSv3h-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-PgnSv3h-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -357,10 +357,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-QWWvHWJ-L.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-QWWvHWJ-L.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-QWWvHWJ-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-QWWvHWJ-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -387,10 +387,10 @@
 &lt;figure id=&#34;figure-view-from-the-hillock&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-Wmvwgrz-L.jpg&#34; data-caption=&#34;View from the hillock&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-Wmvwgrz-L.jpg&#34; data-caption=&#34;View from the hillock&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-Wmvwgrz-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-Wmvwgrz-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -423,10 +423,10 @@
 &lt;figure id=&#34;figure-tv-tower-as-seen-from-the-tomb&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-c2pTRHN-L.jpg&#34; data-caption=&#34;TV Tower as seen from the tomb&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-c2pTRHN-L.jpg&#34; data-caption=&#34;TV Tower as seen from the tomb&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-c2pTRHN-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-c2pTRHN-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -459,10 +459,10 @@
 &lt;figure id=&#34;figure-the-yellow-building-in-the-center-is-the-asmangadh-palace&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/raymonds_tomb/i-ZMgjqJ4-L.jpg&#34; data-caption=&#34;The yellow building in the center is the AsmanGadh Palace&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.nazim.dev/img/raymonds_tomb/i-ZMgjqJ4-L.jpg&#34; data-caption=&#34;The yellow building in the center is the AsmanGadh Palace&#34;&gt;
 
 
-  &lt;img src=&#34;/img/raymonds_tomb/i-ZMgjqJ4-L.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.nazim.dev/img/raymonds_tomb/i-ZMgjqJ4-L.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ads | Nazim</title>
-    <link>/tags/ads/</link>
-      <atom:link href="/tags/ads/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.nazim.dev/tags/ads/</link>
+      <atom:link href="https://www.nazim.dev/tags/ads/index.xml" rel="self" type="application/rss+xml" />
     <description>Ads</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Ads</title>
-      <link>/tags/ads/</link>
+      <link>https://www.nazim.dev/tags/ads/</link>
     </image>
     
     <item>
       <title>PUB - Hari Raya Ad (2019)</title>
-      <link>/blog/pub-hari-raya-ad/</link>
+      <link>https://www.nazim.dev/blog/pub-hari-raya-ad/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/pub-hari-raya-ad/</guid>
+      <guid>https://www.nazim.dev/blog/pub-hari-raya-ad/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;An excellent ad by Public Utilities Board, Singapore on Kinship for Hari Raya 2019.&lt;/p&gt;
 &lt;/blockquote&gt;
