@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Nazim</title>
+    <link>https://www.nazim.dev/project/</link>
+      <atom:link href="https://www.nazim.dev/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nazim.dev/images/icon_hudac935d27c7abab8db1a8cd459536cfe_19313_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://www.nazim.dev/project/</link>
+    </image>
+    
+    <item>
+      <title>500px</title>
+      <link>https://www.nazim.dev/project/500px/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/project/500px/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adobe Stock</title>
+      <link>https://www.nazim.dev/project/adobe-stock/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/project/adobe-stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getty Images</title>
+      <link>https://www.nazim.dev/project/getty-images/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/project/getty-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shutter Stock</title>
+      <link>https://www.nazim.dev/project/shutter-stock/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/project/shutter-stock/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

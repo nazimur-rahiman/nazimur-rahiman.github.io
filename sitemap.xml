@@ -143,6 +143,21 @@
   </url>
   
   <url>
+    <loc>https://www.nazim.dev/tags/500px/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nazim.dev/project/500px/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nazim.dev/project/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.nazim.dev/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -180,6 +195,36 @@
   <url>
     <loc>https://www.nazim.dev/travelogues/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nazim.dev/tags/adobe-stock/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nazim.dev/project/adobe-stock/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nazim.dev/tags/getty-images/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nazim.dev/project/getty-images/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nazim.dev/tags/shutter-stock/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nazim.dev/project/shutter-stock/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -244,6 +289,10 @@
   
   <url>
     <loc>https://www.nazim.dev/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nazim.dev/portfolio/</loc>
   </url>
   
   <url>

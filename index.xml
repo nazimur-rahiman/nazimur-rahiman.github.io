@@ -7,7 +7,7 @@
     <description>Nazim</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <url>https://www.nazim.dev/images/icon_hudac935d27c7abab8db1a8cd459536cfe_19313_512x512_fill_lanczos_center_2.png</url>
       <title>Nazim</title>
       <link>https://www.nazim.dev/</link>
     </image>
@@ -8350,6 +8350,14 @@ docker run --name ghost \
     </item>
     
     <item>
+      <title>500px</title>
+      <link>https://www.nazim.dev/project/500px/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/project/500px/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>https://www.nazim.dev/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -8954,6 +8962,30 @@ docker run --name ghost \
     </item>
     
     <item>
+      <title>Adobe Stock</title>
+      <link>https://www.nazim.dev/project/adobe-stock/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/project/adobe-stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getty Images</title>
+      <link>https://www.nazim.dev/project/getty-images/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/project/getty-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shutter Stock</title>
+      <link>https://www.nazim.dev/project/shutter-stock/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/project/shutter-stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pale Blue Dot</title>
       <link>https://www.nazim.dev/blog/pale-blue-dot/</link>
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
@@ -9467,6 +9499,14 @@ docker run --name ghost \
       <link>https://www.nazim.dev/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.nazim.dev/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.nazim.dev/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/portfolio/</guid>
       <description></description>
     </item>
     
