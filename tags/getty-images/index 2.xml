@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getty Images | Nazim</title>
+    <link>https://www.nazim.dev/tags/getty-images/</link>
+      <atom:link href="https://www.nazim.dev/tags/getty-images/index.xml" rel="self" type="application/rss+xml" />
+    <description>Getty Images</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nazim.dev/images/icon_hudac935d27c7abab8db1a8cd459536cfe_19313_512x512_fill_lanczos_center_2.png</url>
+      <title>Getty Images</title>
+      <link>https://www.nazim.dev/tags/getty-images/</link>
+    </image>
+    
+    <item>
+      <title>Getty Images</title>
+      <link>https://www.nazim.dev/project/getty-images/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/project/getty-images/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
