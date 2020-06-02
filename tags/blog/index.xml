@@ -5,12 +5,157 @@
     <link>https://www.nazim.dev/tags/blog/</link>
       <atom:link href="https://www.nazim.dev/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Nazimur Rahiman - All rights reserved</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.nazim.dev/images/icon_hudac935d27c7abab8db1a8cd459536cfe_19313_512x512_fill_lanczos_center_2.png</url>
       <title>Blog</title>
       <link>https://www.nazim.dev/tags/blog/</link>
     </image>
+    
+    <item>
+      <title>What is Jamstack?</title>
+      <link>https://www.nazim.dev/blog/jamstack/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/blog/jamstack/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Jamstack&lt;/strong&gt; is a cloud-native web development architecture based on client-side JavaScript code, reusable APIs, and markup content. It was pioneered and created by &lt;em&gt;&lt;strong&gt;Netlify&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In its purest form, the idea of Jamstack is that a web application is pre-built into static pages, using content and code to generate the output. In basic terms, Jamstack is a significant shift in focus from the now abstractable back end to the now-powerful front end.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;This website uses the Jamstack architecture:&lt;/strong&gt; Built using &lt;strong&gt;Hugo&lt;/strong&gt;, with the contents on a private &lt;strong&gt;Github&lt;/strong&gt; repository and static pages built and deployed on &lt;strong&gt;Netlify CDN&lt;/strong&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;why-did-i-migrate-to-jamstack&#34;&gt;Why did I migrate to Jamstack?&lt;/h3&gt;
+&lt;h4 id=&#34;higher-security&#34;&gt;Higher Security&lt;/h4&gt;
+&lt;p&gt;Having lost entire contents of my previous site hosted using Wordpress due to sql injection attacks and legal notices from some banks for sending spam links from my domain (due to the malicious php codes injected during the attacks), the higher security offered through the Jamstack infrastructure was the major advantage.&lt;/p&gt;
+&lt;h4 id=&#34;better-performance&#34;&gt;Better Performance&lt;/h4&gt;
+&lt;p&gt;Saving the site contents on a SQL database and retrieving and rendering the content everytime is absolutly unnecessary as there is no change in the content once it&amp;rsquo;s been created.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;jamstack-advantages&#34;&gt;Jamstack Advantages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Faster websites&lt;/strong&gt; - Optimize your site with prerendering and global delivery.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;More secure infrastructure&lt;/strong&gt; - By design, Jamstack architectures offer fewer points of attack.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High scale without high complexity&lt;/strong&gt; - Optimize your site with prerendering and global delivery.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improved developer experience&lt;/strong&gt; - Launch faster with more productive dev &amp;amp; deployment cycles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.netlify.com/jamstack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netlify Jamstack&lt;/a&gt; - What, Why and how to Jamstack.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Image Credits:&lt;/em&gt; 
+&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Jamstack_logo_%282017%29.svg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikimedia Commons&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://www.nazim.dev/blog/markdown/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.nazim.dev/blog/markdown/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The content of this website is completely edited and formatted using markdown.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;markdown-syntax&#34;&gt;Markdown Syntax:&lt;/h3&gt;
+&lt;p&gt;These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;heading&#34;&gt;Heading&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The above syntax is rendered as shown below:&lt;/p&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bold-text&#34;&gt;Bold Text&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;**Lorem Ipsum** is simply dummy text of the printing and typesetting industry.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Lorem Ipsum&lt;/strong&gt; is simply dummy text of the printing and typesetting industry.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;**Lorem Ipsum is simply dummy text of the printing and typesetting industry.**
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;italics&#34;&gt;Italics&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;*Lorem Ipsum* is simply dummy text of the printing and typesetting industry.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;Lorem Ipsum&lt;/em&gt; is simply dummy text of the printing and typesetting industry.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;*Lorem Ipsum is simply dummy text of the printing and typesetting industry.*
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bloackquote&#34;&gt;Bloackquote&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;&amp;gt; Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ordered-list&#34;&gt;Ordered List&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;1. Item Number 1
+2. Item Number 2 
+3. Item Number 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;Item Number 1&lt;/li&gt;
+&lt;li&gt;Item Number 2&lt;/li&gt;
+&lt;li&gt;Item Number 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;unordered-list&#34;&gt;Unordered List&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- Item Number 1
+- Item Number 2 
+- Item Number 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Item Number 1&lt;/li&gt;
+&lt;li&gt;Item Number 2&lt;/li&gt;
+&lt;li&gt;Item Number 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;`code`
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;code&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;horizontal-line&#34;&gt;Horizontal Line&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;--- 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;link&#34;&gt;Link&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;[My Adobe Portfolio](https://www.portfolio.nazim.dev)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.portfolio.nazim.dev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My Adobe Portfolio&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;image&#34;&gt;Image&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;![alt text](image.jpg)
+Below image is rendered with: 
+![Markdown Logo](featured.jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Markdown Logo&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;External Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.markdowntutorial.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown Tutorial&lt;/a&gt; - An open source website that allows you to try Markdown in your web browser.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.markdownguide.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown Guide&lt;/a&gt; - Everything you need to learn Markdown.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Theme Documentation&lt;/a&gt; - Rich content can be written in Academic using Markdown, LaTeX math, and Shortcodes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Image Credits:&lt;/em&gt; 
+&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Markdown-mark.svg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikimedia Commons&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>North Head, Sydney</title>
