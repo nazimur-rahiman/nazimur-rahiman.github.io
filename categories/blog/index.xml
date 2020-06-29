@@ -2609,7 +2609,7 @@ Now that we have our server block files, we need to enable them. We can do this 
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sudo add-apt-repository ppa:certbot/certbot
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;You&amp;rsquo;ll need to press &lt;em&gt;ENTER&lt;/em&gt; to accept.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sudo add-apt-repository ppa:certbot/certbot
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sudo apt-get install certbot
 &lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
